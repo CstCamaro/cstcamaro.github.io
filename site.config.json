@@ -4,7 +4,7 @@
   "subtitle": "Security research & field notes",
   "description": "CstCamaro 的网络安全研究手记。记录 Web 安全、代码审计与工具实践中的思考。",
   "url": "https://cstcamaro.github.io",
-  "basePath": "/Space",
+  "basePath": "",
   "github": "https://github.com/CstCamaro",
   "author": "CstCamaro"
 }
