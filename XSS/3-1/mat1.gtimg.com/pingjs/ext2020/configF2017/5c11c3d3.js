@@ -1,2 +1,0 @@
-/*------------Modifier: < v_hfuzhang > 2019-12-20 16:29:26------------*/
-var apub_5c11c3d3 = {"title":"PC-\u7528\u7814Tips","items":[{"title":"background","color":"#3aa0ff"},{"title":"fontColor","color":"#ffffff"},{"title":"colse","color":"#ffffff"},{"title":"buttonBgColor","color":"#3de04f"},{"title":"buttonFontColor","color":"#ffffff"}],"time":"2019-12-03 14:03:09","schemaId":"5c11c368769c9022503bb9fe","btype":""}

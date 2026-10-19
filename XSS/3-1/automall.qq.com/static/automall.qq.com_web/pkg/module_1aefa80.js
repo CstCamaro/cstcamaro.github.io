@@ -1,2 +1,0 @@
-;/*!automall.qq.com_web:static/lib/context.js*/
-define("automall.qq.com_web:static/lib/context",function(){"use strict";var t="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t};!function(){var o={},n={};o.context=function(o,e){var i=arguments.length;if(i>1)n[o]=e;else if(1==i){if("object"!=("undefined"==typeof o?"undefined":t(o)))return n[o];for(var f in o)o.hasOwnProperty(f)&&(n[f]=o[f])}},"F"in window||(window.F=o)}()});

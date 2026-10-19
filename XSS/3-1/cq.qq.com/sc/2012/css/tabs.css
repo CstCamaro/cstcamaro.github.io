@@ -1,8 +1,0 @@
-@CHARSET "UTF-8";
-
-.tabs-head ul li { float:left; text-align:center; }
-.tabs-head ul li a { display:block; float:left; }
-.tabs-head ul li a:hover { text-decoration:none; }
-.tabs-head ul li a.selected { font-weight:bold; }
-.tabs-content { clear:both; padding:10px; }
-.tabs-content .tabs-item { display:none; }/*  |xGv00|f8cf20f870574a39b532011e30a3e418 */

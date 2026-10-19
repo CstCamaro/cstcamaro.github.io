@@ -1,2 +1,0 @@
-var globalJsonIndexObject={"systemPeopleTimesTotalCnt":"303,944,595","systemPeopleTotalCnt":"303,575,223","systemMonthlyPeopleTotalCnt":"7,026,635","systemMonthlyMoneyTotalCnt":"101,930,510","systemMoneyTotalCnt":"7,598,669,894","systemThisMonthPeopleTotalCnt":"12,818","systemThisMonthMoneyTotalCnt":"295,275"};
-/*  |xGv00|07315b6a5f4ac4f000131a78dd3d6518 */

@@ -1,5 +1,0 @@
-.ad-focus { position:relative; font-size:12px; }
-.ad-focus .ad-focus-imgs a { display:none; }
-.ad-focus .ad-focus-handler { position:absolute; height:35px; line-height:35px; left:0; bottom:0; right:0; }
-.ad-focus .ad-focus-handler a { display:block; color:#fff; background:#000; float:left; text-decoration:none; text-align:center; filter:alpha(opacity=60); opacity:0.6; }
-.ad-focus .ad-focus-handler a.selected { color:#000; background:#e0e0e0; filter:alpha(opacity=90); opacity:.9; }/*  |xGv00|5553062f6576dafa136b1217bf0508d0 */

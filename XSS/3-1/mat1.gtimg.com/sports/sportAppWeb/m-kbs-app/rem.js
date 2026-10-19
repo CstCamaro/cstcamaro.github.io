@@ -1,2 +1,0 @@
-!function(){var e=function(){var e=Math.max(document.documentElement.clientWidth,window.innerWidth)||screen.availWidth,t=100*((e=e>1024?1024:e)/375);document.querySelector("html").style.fontSize=t+"px"},t=0;window.addEventListener("resize",function(){t&&(clearTimeout(t),t=0),t=setTimeout(e,0)}),e(),setTimeout(e,0)}();
-/*  |xGv00|2c302c953a611eaae3ac2faac122925f */

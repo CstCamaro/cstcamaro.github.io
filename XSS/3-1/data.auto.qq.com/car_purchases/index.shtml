@@ -1,2301 +1,0 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-<meta content="text/html; charset=gb2312" http-equiv="Content-Type">
-<title>导购中心_腾讯汽车</title>
-<meta name="keywords" content="买什么车好,10万左右的车,性价比高,选购,买车,SUV,两厢车,三厢车,新车,试驾,导购">
-<meta name="description" content="腾讯汽车导购中心，实时为您提供最及时、准确、权威的导购信息，让不懂专业的汽车知识的您，一样可以找到称心如意的爱车">
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-<meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Expires" content="-1">
-<script src="//mat1.gtimg.com/www/mb/js/portal/mi.MiniNav_110901V1.js" type="text/javascript" charset="utf-8"></script><script charset="gb2312" src="//js.data.auto.qq.com/car_public/template/serial_py.js" type="text/javascript"></script>
-<script src="//mat1.gtimg.com/auto/js/Q/Q.min.js" type="text/javascript"></script>
-</head>
-<body>
-<style type="text/css">
-    /*带一键登录全站迷你导航 v20130219 loginall @goldenchen*/
-    .mininav {
-        width: 100%;
-        height: 28px;
-        background: #fdfdfd url(//mat1.gtimg.com/www/images/qq2012/mininav.png) repeat-x top center;
-        border-bottom: 1px solid #ebebeb;
-    }
-
-    .mininavInner {
-        width: 1000px;
-        height: 28px;
-        margin: 0 auto !important;
-    }
-
-    .mininavInner a {
-        color: #666;
-        text-decoration: none;
-        font-family: "Microsoft YaHei";
-    }
-
-    .mininavInner a:hover {
-        color: #2d374b;
-    }
-
-    .mininavInner .mininavLeft {
-        float: left;
-        margin-top: 8px;
-        color: #c7c7c7;
-        font-size: 12px;
-    }
-
-    .mininavInner .mininavLeft .fl {
-        color: #c7c7c7;
-    }
-</style>
-<div class="mininav" id="topNav">
-    <div class="mininavInner">
-        <div class="mininavLeft">
-            <div class="fl">
-                <a href="//www.qq.com/" target="_blank" id="qqindex" bosszone="qqindex">腾讯网首页</a> | <a
-                    href="//www.qq.com/map/" target="_blank" id="webmap" bosszone="webmap">网站地图</a>
-            </div>
-        </div>
-    </div>
-</div><!--[if !IE]>|xGv00|29aec62927eb96ab30842fc1954f6ee8<![endif]-->
-
-<style>
-/* 公共布局
------------------------------------------------ */
-body,div,dl,dt,dd,table,tr,th,td,form{ margin:0; padding:0; color:#333; font-size:12px; font-family:"\5B8B\4F53","Arial Narrow",Tahoma;}
-ul,ol,li,dl,dt,dd{ list-style-type:none; margin:0; padding:0;}
-li{ vertical-align:bottom;}
-h1,h2,h3,h4,h5,h6{ margin:0; padding:0;}
-strong{ font-weight:bold;}
-img{ vertical-align:bottom; border:0;}
-a:link,a:visited{ color:#333; text-decoration:none;}
-a:hover{ color:#d90606; text-decoration:underline;}
-
-.cls{ clear:both; height:0; font:0/0 Arial;}
-.clearfix:after{ display:block; clear:both; visibility:hidden; content:"."; height:0;}
-* html .clearfix{ height:1%;}
-.wrapper{ width:960px; margin:0 auto;}
-
-/* 引用首页样式
------------------------------------------------ */
-table{border-collapse:collapse;border-spacing:0}
-p{ margin:0;}
-.layout{width:1000px;margin:0 auto}
-.layout:after,.hd:after,.bd:after,.ft:after,.cf:after,.Q-tList:after,.Q-tList ul:after,.Q-tList ol:after,.Q-pList:after,.Q-pList ul:after,.Q-tpList:after,.Q-tpList ul:after,.Q-tpWrap:after{content:"";display:table;clear:both}
-.layout,.hd,.bd,.ft,.cf,.Q-tList,.Q-tList ul,.Q-tList ol,.Q-pList,.Q-pList ul,.Q-tpList,.Q-tpList ul,.Q-tpWrap{*zoom:1}
-.mt5{margin-top:5px!important}
-.mt10{margin-top:10px!important}
-.mt15{margin-top:15px!important}
-.mt20{margin-top:20px!important}
-.mt25{margin-top:25px!important}
-.mt30{margin-top:30px!important}
-.mt35{margin-top:35px!important}
-.mr20{margin-right:20px!important}
-.mr40{margin-right:40px!important}
-.pt10{padding-top:10px}
-.search_car_btn,.car_nav li em,.head_top .select_city .btn em,.dujia,.history_links span .eye,#cp_xczx .search_btn,.foucs_pic .mini_nav li a,.mini_task li a,.foucs_pic .mini_nav li.active a,.mini_task li.active a,.cx_content_item .play_btn,.heavy_list .keyword .en,.txcp .up_btn em,.txcp .down_btn em,.car_tools li a em,.auto-menu h4 .open,.auto-menu .state-open h4 .open,.depr_list li .price .green_arr,.hide_panel .up_arr,.union .intro .join_btn,.ask_price_btn,.recommend ul li .online_ask_btn,.city_options_box .up_arr,.change_time .left_btn em,.change_time .right_btn em,.xc_select_btn .down_arr,.xc_select_btn .up_arr,.cshy_top .chose_city .btn .down,.cshy_top .chose_city .btn .up,.ct_way li .link em,#top_select_city .up_arr,#toTop{background:url("//mat1.gtimg.com/auto/2014/images/auto_sprite.png") no-repeat}
-.logoAutoQQ{display:none}
-
-/*header_box*/
-.head_top{height:32px}
-.logo_wrap,.logo_wrap a,.logo_wrap,.logo_wrap img{display:block;height:30px;width:128px}
-.head_top .select_city{height:25px;width:172px;margin-top:7px}
-.head_top .select_city .slt1,.head_top .select_city .slt2{height:25px;width:72px;text-align:right}
-.head_top .select_city .slt2{width:79px;position:relative;z-index:10}
-.head_top .select_city .slt2 .cx_options_box{width:255px;left:10px;top:35px;_top:37px;height:90px;position:absolute; display:none}
-#top_select_city li{display:block;float:left;width:51px;line-height:30px;text-align:center}
-.head_top .select_city .btn{display:inline-block;height:25px;line-height:22px;color:#666;padding-right:20px;position:relative}
-.head_top .select_city .btn:hover{text-decoration:none}
-.head_top .select_city .btn em{display:block;height:5px;width:9px;position:absolute;top:9px;right:5px;overflow:hidden}
-.head_top .select_city .btn em.down{background-position:-948px -17px}
-.head_top .select_city .btn em.up{background-position:-965px -34px}
-.hide_panel{position:relative;border:1px solid #d3d3d3;padding:8px 14px 10px}
-.hide_panel .left{width:290px;margin-right:10px}
-.hide_panel .headline{border-bottom:1px dashed #ccc;padding:6px 0 10px}
-.hide_panel .headline .pic{display:block;height:90px;width:135px;margin:5px 12px 0 0}
-.hide_panel .headline .link{font:14px/26px "\5FAE\8F6F\96C5\9ED1","\9ED1\4F53"}
-.hide_panel .headline p{color:#666;line-height:22px;margin-top:4px}
-.hide_panel .left ul{display:block;padding-top:7px}
-.hide_panel .left ul li{width:290px;height:26px;overflow:hidden}
-.hide_panel .left ul li a{font-size:14px;line-height:26px}
-.hide_panel .middle{width:410px}
-.hide_panel .middle ul{float:left;width:200px;margin-right:10px}
-.hide_panel .middle ul.last{margin:0}
-.hide_panel .middle ul li{width:200px;height:36px;overflow:hidden}
-.hide_panel .middle ul li a{width:200px;height:36px;font:14px/36px "\5B8B\4F53"}
-.hide_panel .right{width:250px;margin-top:6px}
-.hide_panel .hot_active{height:30px;background-color:#333}
-.hide_panel .hot_active img{display:block;float:left;height:18px;width:148px;margin-top:5px}
-.hide_panel .hot_art{display:block;margin-top:1px;height:136px;width:250px;position:relative}
-.hide_panel .hot_art img{height:136px;width:250px}
-.dujia{vertical-align:middle;display:inline-block;height:14px;width:28px;background-position:-152px -61px;color:#fff;font:12px/14px "\5FAE\8F6F\96C5\9ED1","\9ED1\4F53";text-align:right;overflow:hidden}
-.hide_panel .up_arr,#top_select_city .up_arr{display:block;width:14px;height:8px;background-position:-965px -17px;position:absolute;top:-8px;left:160px;overflow:hidden}
-#top_select_city .up_arr{left:20px}
-
-.pp_options_box,.cx_options_box,.city_options_box{display:none;position:absolute;width:228px;height:274px;border:1px solid #bbb;top:30px;left:0;background-color:#fff;z-index:100}
-.hot_art .mask{display:block;height:79px;width:100%;background:url("//mat1.gtimg.com/auto/2014/images/mask.png") no-repeat;_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//mat1.gtimg.com/auto/2014/images/mask.png',sizingMethod='crop');position:absolute;bottom:0;left:0;cursor:pointer}
-.hot_art span{font:14px/38px "\5B8B\4F53";text-align:center;height:38px;display:block;width:100%;position:absolute;left:0;bottom:0;color:#fff}
-.hot_art:hover{text-decoration:none}
-.hot_art:hover span{text-decoration:none;cursor:pointer}
-/*搜车*/
-.search_car{height:20px;width:390px;padding:5px 0 3px 8px;border:2px solid #d3d3d3;position:relative;z-index:1}
-.search_ipt{height:20px;width:298px;border:none;*border:0;font:14px/20px "\5B8B\4F53"}
-.search_car_btn{position:absolute;top:-2px;right:-2px;display:block;height:32px;width:86px;background-position:-824px 0}
-.results_list{border:2px solid #D3D3D3;border-top:none;left:-2px;position:absolute;top:30px;width:398px;background-color:#fff;z-index:1}
-.results_list li{height:24px}
-.results_list li a{display:block;height:24px;line-height:24px;padding-left:10px;position:relative}
-.results_list li a .acronym{display:block;height:24px;width:100px;position:absolute;top:0;right:0}
-.results_list li a:hover,.results_list li a.select{text-decoration:none;background-color:#f1f1f1}
-/*版式切换*/
-.head_top .tab_format{margin-top:4px;border:1px solid #1c8dd5}
-.head_top .tab_format a{display:block;height:26px;width:64px;float:left;line-height:26px;text-align:center;color:#1c8dd5;font-size:12px}
-.head_top .tab_format a:hover{color:#c00}
-.head_top .tab_format a.active{background-color:#1c8dd5;color:#fff;font-weight:bold;cursor:default}
-.head_top .tab_format a.active:hover{text-decoration:none;color:#fff}
-
-/*头部导航*/
-.all_nav{height:35px;border-bottom:4px solid #1c8dd5}
-.all_nav ul{width:100%;display:table;border-collapse:collapse}
-.all_nav li{display:block;float:left;width:66px}
-.all_nav li.first{width:76px}
-.all_nav li a{display:block;font:14px/35px "\5FAE\8F6F\96C5\9ED1","\9ED1\4F53";text-align:center;color:#333}
-.all_nav li a:hover,.all_nav li a.active{color:#fff;background-color:#1c8dd5;text-decoration:none}
-
-#toTop{background-position:-67px -93px;bottom:45px;display:none;height:54px;opacity:0.3;-moz-opacity:0.3;filter:alpha(opacity=30);position:fixed;right:50%;margin-right:-575px;width:54px}
-#toTop:hover{opacity:1;-moz-opacity:1;filter:alpha(opacity=100)}
-
-/* header
------------------------------------------------ */
-/* 子导航 */
-.navSub{ height:41px; background:#fafafa url(//mat1.gtimg.com/auto/1/2014/lineX.png) repeat-x 0 bottom;}
-.navSub li{ float:left; height:41px; padding:0 20px; font:18px/40px "\5FAE\8F6F\96C5\9ED1", "\9ED1\4F53";}
-.navSub li a:link,.navSub li a:visited{ color:#bababa;}
-.navSub li a:hover,.navSub li a:active{ color:#c00; text-decoration:none;}
-.navSub li.on{ height:40px; border-bottom:1px solid #1c8dd5;}
-.navSub li.on a:link,.navSub li.on a:visited{ color:#333;}
-.navSub li.on a:hover,.navSub li.on a:active{ color:#c00;}
-
-/* 公共布局补充
------------------------------------------------ */
-.marginT20{margin-top:20px!important}
-
-/* 宽1000px
-.all_nav{ width:1000px;}
-.all_nav li{ width:66px;}
-.all_nav li.first{ width:76px;}
-.navSub{ width:1000px;}
- */
-/* 宽960px */
-.layout{ width:960px;}
-.all_nav{ width:960px;}
-.all_nav li{ width:64px;}
-.all_nav li.first{ width:64px;}
-.navSub{ width:960px;}
-
-
-.W1000{ width:1000px;}
-.hide_panel .up_arr{ left:180px;}
-.fl{ float:left;}
-.fr{ float:right;}
-</style>
-
-<!-- 2014首页内页改版通用头部 -->
-	<!--手动更新页面抓取管理任务ID：2359-->
-<!--logo城市切换-->
-    <div class="head_top layout mt25">
-		<!--logo-->
-		<div class="logo_wrap fl">
-			<a href="//auto.qq.com/" target="_blank"><img src="//mat1.gtimg.com/auto/2014/images/auto_logo.png" alt="腾讯汽车" /></a>
-			<h1 class="logoAutoQQ"><a href="//auto.qq.com/">腾讯汽车</a></h1>
-		</div>
-
-		<!--城市切换-->
-        <div class="select_city fl" bosszone="bd">
-	<div class="slt2 fl">
-		<a id="top_city_btn" href="javascript:;" class="btn">更换地区<em class="down"></em></a>
-		<div id="top_select_city" class="cx_options_box" style="height:150px;">
-			<span class="up_arr"></span>
-			<ul>
-				<li><a target="_blank" href="http://beijing.auto.qq.com">北京</a></li>
-				<li><a target="_blank" href="http://shanghai.auto.qq.com">上海</a></li>
-				<li><a target="_blank" href="http://chongqing.auto.qq.com">重庆</a></li>
-				<li><a target="_blank" href="http://guangzhou.auto.qq.com">广州</a></li>
-				<li><a target="_blank" href="http://shenyang.auto.qq.com">沈阳</a></li>
-				<li><a target="_blank" href="http://zhengzhou.auto.qq.com">郑州</a></li>
-				<li><a target="_blank" href="http://nanjing.auto.qq.com">南京</a></li>
-				<li><a target="_blank" href="http://hangzhou.auto.qq.com">杭州</a></li>
-				<li><a target="_blank" href="http://fuzhou.auto.qq.com">福州</a></li>
-				<li><a target="_blank" href="http://wuhan.auto.qq.com">武汉</a></li>
-				<li><a target="_blank" href="http://changsha.auto.qq.com">长沙</a></li>
-				<li><a target="_blank" href="http://xian.auto.qq.com">西安</a></li>
-				<li><a target="_blank" href="http://chengdu.auto.qq.com">成都</a></li>
-				<li><a target="_blank" href="http://qingdao.auto.qq.com">青岛</a></li>
-				<li><a target="_blank" href="http://hefei.auto.qq.com">合肥</a></li>
-				<li><a target="_blank" href="http://nanchang.auto.qq.com">南昌</a></li>
-				<li><a target="_blank" href="http://jinan.auto.qq.com">济南</a></li>
-				<li><a target="_blank" href="http://xiamen.auto.qq.com">厦门</a></li>
-				<li><a target="_blank" href="http://changchun.auto.qq.com">长春</a></li>
-				<li><a target="_blank" href="http://haerbin.auto.qq.com">哈尔滨</a></li>
-				<li><a target="_blank" href="http://dalian.auto.qq.com">大连</a></li>
-				<li><a target="_blank" href="http://quanzhou.auto.qq.com">泉州</a></li>
-				<li><a href="http://shijiazhuang.auto.qq.com/" target="_blank">石家庄</a></li>
-		        <li><a href="http://shenzhen.auto.qq.com/" target="_blank">深圳</a></li>
-			</ul>
-		</div>
-	</div>
-</div>
-<!--[if !IE]>|xGv00|6ece7af99cd0e2262871cb644b2125f1<![endif]-->
-
-		<!--搜车-->
-		<div class="search_car fl" bosszone="dhserch">
-	<form>
-		<input class="search_ipt" type="text" value="" placeholder="奥迪 A4L" />
-		<a href="javascript:;" class="search_car_btn"></a>
-	</form>
-</div>
-<!--[if !IE]>|xGv00|453d74a41507d99926a15de90c277bb2<![endif]-->
-
-		<!--版式切换-->
-		<div class="tab_format fr">
-			<a href="#" target="_blank" class="active">阅读版</a>
-			<a href="http://uc.auto.qq.com" target="_blank">个人版</a>
-		</div>
-	</div>
-    
-    <!--隐藏面板-->
-	<div class="layout mt10 W1000">
-		<div id="hide_panel" class="hide_panel cf" style="display:none;">
-			<div id="hide_panel_left" class="left fl" bosszone="left"></div>
-			<div id="hide_panel_middle" class="middle fl cf" bosszone="middle"></div>
-			<div id="hide_panel_right" class="right fr" bosszone="right"></div>
-			<span class="up_arr"></span>
-		</div>
-	</div>
-<!--全站导航-->
-	<style type="text/css">
-.all_nav li{ width:61px;}
-</style>
-
-<!--全站导航-->
-	<div class="all_nav layout mt15" bosszone="all">
-		<ul id="autoMianNav">
-			<li class="first"><a href="http://auto.qq.com" target="_blank">首页</a></li>
-			<li><a href="http://data.auto.qq.com/car_brand/index.shtml" target="_blank">选车</a></li>
-			<li><a href="//auto.qq.com/newcar.htm" target="_blank">新车</a></li>
-			<li><a href="//auto.qq.com/guide.htm" target="_blank">导购</a></li>
-			<li><a href="//auto.qq.com/evaluat.htm" target="_blank">评测</a></li>
-			<li><a href="http://data.auto.qq.com/car_public/1/hq.shtml" target="_blank">行情</a></li>
-			<li><a href="//auto.qq.com/jiangjia.htm" target="_blank">降价</a></li>
-			<li><a href="//auto.qq.com/service.htm" target="_blank">用车</a></li>
-			<li><a href="//auto.qq.com/tech.htm" target="_blank">科技</a></li>
-			<li><a href="//auto.qq.com/club.htm" target="_blank">互动</a></li>
-			<li><a href="//auto.qq.com/news.htm" target="_blank">行业</a></li>
-			<li><a href="//auto.qq.com/comment.htm" target="_blank">评论</a></li>
-			<li><a href="//auto.qq.com/autophoto.htm" target="_blank">图吧</a></li>
-			<li><a href="//auto.qq.com/topcar/index.htm" target="_blank">御驾</a></li>
-			<li><a href="//auto.qq.com/Zhuanti/huizong.htm" target="_blank">专题</a></li>
-		</ul>
-	</div>
-	<script>
-	//<![CDATA[
-		function lightAutoNav(obj){
-			var curHref = window.location.href.replace(window.location.search,'');
-			var mianNavA = document.getElementById(obj).getElementsByTagName("a");
-			for (var i = 0; i < mianNavA.length; i++) {
-				if(mianNavA[i].href == curHref){
-					mianNavA[i].href = "javascript:void(0);";
-					mianNavA[i].className = "active";
-					mianNavA[i].target = "_self";
-				}
-			}
-		}
-		lightAutoNav("autoMianNav");
-	//]]>
-	</script><!--[if !IE]>|xGv00|c258bdd3f46e90b930b78677076fea54<![endif]-->
-<!--[if !IE]>|xGv00|44d8403ad640a15c72c5532c604759f4<![endif]-->
-<!-- 子导航 -->
-<div class="wrapper navSub">
-	<ul id="navSub">
-		<li><a href="//auto.qq.com/guide.htm" target="_self" class="on">导购</a></li>
-		<li><a href="http://data.auto.qq.com/car_purchases/index.shtml" target="_self">导购中心</a></li>
-		<li><a href="http://data.auto.qq.com/car_purchases/cxdg/car_column_1.shtml" target="_self">多车导购</a></li>
-		<li><a href="http://data.auto.qq.com/car_purchases/pk/car_column_1.shtml" target="_self">捉对PK</a></li>
-		<li><a href="http://data.auto.qq.com/car_purchases/gcsc/car_column_1.shtml" target="_self">购车导购</a></li>
-		<li><a href="http://data.auto.qq.com/car_purchases/picture/car_column_1.shtml" target="_self">新车实拍</a></li>
-		<li><a href="http://data.auto.qq.com/car_purchases/txrw/car_column_1.shtml" target="_self">腾讯任务</a></li>
-	</ul>
-</div>
-<script>
-//<![CDATA[
-	// 隐藏主导航
-	function hiddenNav(n){
-		document.getElementById("autoMianNav").getElementsByTagName("li")[n].style.display = "none";
-	}
-	//hiddenNav(7);
-	//hiddenNav(10);
-	
-	// 点亮当前主导航
-	function lightAutoMainNav(obj,n){
-		var mianNavA = document.getElementById(obj).getElementsByTagName("a");
-		mianNavA[n].className = "active";
-		mianNavA[n].href = "javascript:void(0);";
-		mianNavA[n].target = "_self";
-	}
-	lightAutoMainNav("autoMianNav",3);
-	
-	// 点亮当前子导航
-	function lightAutoSubNav(obj){
-		var curHref = window.location.href;
-		var mianNavLi = document.getElementById(obj).getElementsByTagName("li");
-		for (var i = 0; i < mianNavLi.length; i++){
-			var mianNavLiA = mianNavLi[i].getElementsByTagName("a")[0];
-			if(mianNavLiA.href == curHref){
-				mianNavLi[i].className = "on";
-				mianNavLiA.href = "javascript:void(0);";
-				mianNavLiA.target = "_self";
-			}
-		}
-	}
-	lightAutoSubNav("navSub");
-//]]>
-</script>
-
-
-<script type="text/javascript" src="//mat1.gtimg.com/www/js/jquery-1.10.2.min.js"></script>
-<script language="javascript">
-
-/*============================auto.js=================================*/
-typeof $ === 'undefined' && typeof jQuery !== 'undefined' && ($=jQuery);
-
-/**
-* 隐藏面板
-**/
-function TPanel(ops) {
-this.btn = ops.btn;
-this.panel = ops.panel;
-this.event = ops.event || "click";
-this.timer = null;
-this.delay = ops.delay || 8000;
-this.open = false;
-this.effect = ops.effect || false;
-this.init();
-}
-TPanel.prototype = {
-init: function () {
-	var _this = this;
-	this.btn.on(this.event, function (e) {
-
-		_this.toggle();
-
-		
-		if (e && e.stopPropagation) {
-			e.stopPropagation();
-		} else {
-			window.event.cancelBubble = true;
-		}
-			
-		return false;
-	});
-
-	if (_this.effect) {
-		
-		$("body").on("click", function (){
-		
-			_this.hide_pan();
-		});
-	}
-},
-show_pan: function(){
-	this.btn.find("em:not(.up)").addClass("up");
-	this.panel.is(':hidden') && this.panel.show();
-},
-hide_pan: function () {
-	this.btn.find("em").removeClass("up");
-	!this.panel.is(":hidden") && this.panel.hide();
-},
-clear: function(){
-	(this.timer) && clearTimeout(this.timer);
-	this.btn.find("em.up").removeClass("up");
-},
-set: function(){
-	var _this = this;
-	this.timer = setTimeout(function () {
-		_this.toggle();
-	}, _this.delay);
-},
-down_pan: function () {
-	this.btn.find("em").addClass("up");
-	this.panel.slideDown();
-},
-toggle: function () {
-	this.btn.find("em").toggleClass("up");
-	if (this.effect) {
-		this.panel.toggle();
-	} else {
-		this.panel.slideToggle();
-	}
-}
-};
-
-/*头部隐藏面板*/
-
-var top_city = new TPanel({
-btn: $("#top_city_btn"),
-panel: $("#top_select_city"),
-delay: 1500,
-effect: true
-});
-
-
-/*===============================auto.dev.js=================================*/
-
-;(function($){if(!$)return;
-document.domain = 'qq.com';
-var doc  = document,port='',win  = window,_loc = location;
-// 
-$(function(){
-	$('.search_ipt').length && $.getScript('//mat1.gtimg.com/auto/2014/js/auto.dev.js'); //顶部搜索
-})
-})(window.jQuery)
-</script>
-<script>
-//<![CDATA[
-
-	//分享到腾讯微博
-	function postToWb(title,pic,url){//参数说明：title说明文字，pic小图片，url分享要链接到的地址
-		var _t = encodeURI(title);//当前页面title，使用document.title
-		var _url = encodeURIComponent(url);//当前页的链接地址使用document.location
-		var _appkey = 801298467;//你从腾讯获得的appkey，如果有appkey,直接写入key值，例如：_appkey=123456
-		var _pic = encodeURI(pic);//（例如：var _pic='图片url1|图片url2|图片url3....）
-		var _site = '';//你的网站地址
-		var _u = 'http://v.t.qq.com/share/share.php?title='+_t+'&url='+_url+'&appkey='+_appkey+'&site='+_site+'&pic='+_pic;
-		w = window.screen.width, h = window.screen.height;
-		window.open( _u,'分享到腾讯微博', "height=480,width=608,top=" + (h-480)/2 + ",left=" + (w-608)/2 + ",toolbar=no,menubar=no,resizable=yes,location=yes,status=no");
-	}
-
-	//分享到QQ空间
-	function postToQzone(title,summary,pic,url){//参数说明：title标题，summary摘要，pic小图片，url分享要链接到的地址
-		var p = {
-			url:url,
-			showcount:'1',/*是否显示分享总数,显示：'1'，不显示：'0' */
-			desc:'',/*默认分享理由(可选)*/
-			summary:summary,/*分享摘要(可选)*/
-			title:title,/*分享标题(可选)*/
-			site:'',/*分享来源 如：腾讯网(可选)*/
-			pics:pic, /*分享图片的路径(可选)*/
-			style:'203',
-			width:98,
-			height:22
-		};
-		var s = [];
-		for(var i in p){
-			s.push(i + '=' + encodeURIComponent(p[i]||''));
-		}
-		var _u='http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?'+s.join('&');
-		w = window.screen.width, h = window.screen.height;
-		window.open( _u,'分享到QQ空间和朋友网', "height=580,width=708,top=" + (h-580)/2 + ",left=" + (w-708)/2 + ",toolbar=no,menubar=no,resizable=yes,location=yes,status=no");
-	}
-
-	//分享到新浪微博
-	function shareToSina(articleTitle,articleURL){
-		var url = "http://v.t.sina.com.cn/share/share.php",
-		_url = articleURL,
-		_title = articleTitle,
-		_appkey = '',
-		_ralateUid = '',
-		c = '', pic = [];
-		w = window.screen.width, h = window.screen.height;
-		c = url + "?url=" + encodeURIComponent(_url) + "&appkey=" + _appkey + "&title=" + _title + "&pic" + pic + "&ralateUid=" + _ralateUid + "&language=";
-		window.open(c, "shareQQ", "height=480,width=608,top=" + (h-480)/2 + ",left=" + (w-608)/2 + ",toolbar=no,menubar=no,resizable=yes,location=yes,status=no");
-	}
-
-	//分享到QQ邮箱
-	function postToQQEmail(title,summary,pic,url){
-		var p = {
-			url:url,/*当前页面url，使用location.href*/
-			to:'qqmail',
-			desc:'', /*默认分享理由(可选)*/
-			summary:summary,/*摘要(可选)*/
-			title:title,/*分享标题(可选)*/
-			site:'',/*分享来源 如：腾讯网(可选)*/
-			pics:pic /*分享图片的路径(可选)*/
-		};
-		var s = [];
-		for(var i in p){
-			s.push(i + '=' + encodeURIComponent(p[i]||''));
-		}
-		w = window.screen.width, h = window.screen.height;
-		var _u = 'http://mail.qq.com/cgi-bin/qm_share?'+ s.join("&");
-		window.open( _u,'分享到QQ邮箱', "height=580,width=708,top=" + (h-580)/2 + ",left=" + (w-708)/2 + ",toolbar=no,menubar=no,resizable=yes,location=yes,status=no");
-	};
-
-	//分享到人人
-	function shareToRenren(articleTitle,articleURL){
-		var url = "http://widget.renren.com/dialog/share",
-		_url =articleURL,
-		_title =articleTitle,
-		c = '', pic = [],
-		w = window.screen.width, h = window.screen.height;
-		c = url + "?resourceUrl=" + _url + "&title=" + _title + "&charset=GB2312";
-		window.open(c, "shareQQ", "height=480,width=608,top=" + (h-480)/2 + ",left=" + (w-608)/2 + ",toolbar=no,menubar=no,resizable=yes,location=yes,status=no");
-	}
-
-	//分享到开心
-	function shareToKaixin(articleTitle,articleURL){
-		var url = "http://www.kaixin001.com/rest/records.php",
-		_url = articleURL,
-		_title = articleTitle,
-		c = '', pic = [],
-		w = window.screen.width, h = window.screen.height;
-		c = url + "?content=" + encodeURIComponent(_title) + "&url=" + _url + "&&starid=&aid=&style=11&t=10";
-		var win = window.open(c, "shareQQ", "height=480,width=608,top=" + (h-480)/2 + ",left=" + (w-608)/2 + ",toolbar=no,menubar=no,resizable=yes,location=yes,status=no");
-	}
-
-	//分享到腾讯朋友
-	function postToPengYon(title,pic,url){
-		var p = {
-			url:url,
-			to:'pengyou',
-			desc:'',/*默认分享理由(可选)*/
-			summary:'',/*摘要(可选)*/
-			title:title,/*分享标题(可选)*/
-			site:'',/*分享来源 如：腾讯网(可选)*/
-			pics:pic /*分享图片的路径(可选)*/
-		};
-		var s = [];
-		for(var i in p){
-			s.push(i + '=' + encodeURIComponent(p[i]||''));
-		}
-		w = window.screen.width, h = window.screen.height;
-		var _u = 'http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?'+s.join('&');
-		window.open( _u,'分享到朋友网', "height=580,width=708,top=" + (h-580)/2 + ",left=" + (w-708)/2 + ",toolbar=no,menubar=no,resizable=yes,location=yes,status=no");
-	}
-
-	//分享到QQ好友
-	function shareToQQ(articleTitle, articleURL) {
-		var c = "http://connect.qq.com/widget/shareqq/index.html?url=" + encodeURIComponent(articleURL) + "&site=qqcom&iframe=true&showcount=0&desc=&summary=&title=&pics=&style=203&width=19&height=22";
-		window.open(c, "shareQQ", "height=485, width=720,toolbar=no,menubar=no,scrollbars=no,resizable=yes,location=no,status=no,top=200,left=200");
-	}
-//]]>
-</script><!--[if !IE]>|xGv00|46840ed0ecdd8e3d2b3b6e36d9127233<![endif]-->
-
-<p class="box_hr10"></p>
-
-<link href="//mat1.gtimg.com/auto/css/car_purchases/homepage.css" type="text/css" rel="stylesheet"/>
-<div class="content">
-<!--content begin-->
-<div class="left-wrap">	
-		<!--顶部焦点文章-->		
-		<!--"/autosite_page/carpurchases/focus_art.htm"-->
-		<style>
-.mod_focus_sports .mod_focus_txt li.current h3 {
-font: 600 18px/18px "\5FAE\8F6F\96C5\9ED1";
-}
-</style>
-
-<div class="mod_focus_sports">
-
-  <ul class="mod_focus_pic" id="mod_focus_pic">
-
-<li style="display:  block ;"><a href="http://auto.qq.com/a/20151023/009621.htm" target="_blank" onclick ="purchasesBossClick('index','index_focus_map');"><img alt="四款行政级豪华中大型车推荐 V6引擎不能少" src="http://img1.gtimg.com/auto/pics/hv1/8/188/1949/126781673.jpg"></a> </li>
-
-<li style="display:none;"><a href="http://auto.qq.com/a/20150607/004186.htm" target="_blank" onclick ="purchasesBossClick('index','index_focus_map');"><img alt="10万元标杆级SUV车型推荐" src="http://img1.gtimg.com/auto/pics/hv1/90/167/1855/120664050.jpg"></a> </li>
-
-    <li style="display: none  ;"><a href="http://auto.qq.com/a/20150520/007046.htm" target="_blank" onclick ="purchasesBossClick('index','index_focus_map');"><img alt="四款亲民自主MPV车型推荐" src="http://img1.gtimg.com/auto/pics/hv1/252/211/1843/119895132.jpg"></a> </li>
-  
-   <li style="display: none;"><a href="http://auto.qq.com/a/20150506/014296.htm" target="_blank" onclick ="purchasesBossClick('index','index_focus_map');"><img alt="四款合资居家紧凑级轿车推荐" src="http://img1.gtimg.com/auto/pics/hv1/218/122/1834/119287178.jpg"></a> </li>
-
-    <li style="display:none ;"><a href="http://auto.qq.com/a/20150429/008100.htm" target="_blank" onclick ="purchasesBossClick('index','index_focus_map');"><img alt="不同风格精品小型车推荐" src="http://img1.gtimg.com/auto/pics/hv1/89/140/1830/119031539.jpg"></a> </li>
-
-
-    
-
-    
-
-
-
-   
-
-  </ul>
-
-  <div class="mod_focus_txt" id="mod_focus_txt" style="right:0px;top:0px;">
-    <ul>
-
-<li class=" current" index=1>
-        <h3><a href="http://auto.qq.com/a/20150919/010813.htm" target="_blank" onclick = "purchasesBossClick('index','index_focus_map');">热门合资T动力家轿推荐</a></h3>
-        <div class="art-desc">随着涡轮化进程的发展，小排量增压机型大受追捧......<a href="http://auto.qq.com/a/20150919/010813.htm" target="_blank" class="link" onClick="purchasesBossClick('index','index_focus_map');">全文</a></div>
-      <div class="art-info"><span class="date">09月19日 07:00</span><a href="http://data.auto.qq.com/car_purchases/cxdg/car_column_1.shtml" target="_blank" class="link" onClick="purchasesBossClick('index','index_focus_map');">车型导购</a></div>
-      </li>
-
-<li class="hasborder" index=2>
-        <h3><a href="http://auto.qq.com/a/20150607/004186.htm" target="_blank" onclick = "purchasesBossClick('index','index_focus_map');">10万元标杆级SUV车型推荐</a></h3>
-        <div class="art-desc">今天我们就为大家甄选了四款车型，他们均拥有媲美合资车型的综合产品力，售价均在十万元左右......<a href="http://auto.qq.com/a/20150607/004186.htm" target="_blank" class="link" onClick="purchasesBossClick('index','index_focus_map');">全文</a></div>
-        <div class="art-info"><span class="date">05月29日 07:00</span><a href="http://data.auto.qq.com/car_purchases/cxdg/car_column_1.shtml" target="_blank" class="link" onClick="purchasesBossClick('index','index_focus_map');">车型导购</a></div>
-      </li>
-
-      <li class="hasborder" index=3 >
-        <h3><a href="http://auto.qq.com/a/20150520/007046.htm" target="_blank" onclick = "purchasesBossClick('index','index_focus_map');">四款亲民自主MPV车型推荐</a></h3>
-        <div class="art-desc">今天我们将为您推荐四款市场热销的自主MPV，希望对您的购车提供帮助......<a href="http://auto.qq.com/a/20150520/007046.htm" target="_blank" class="link" onClick="purchasesBossClick('index','index_focus_map');">全文</a></div>
-        <div class="art-info"><span class="date">04月16日 07:00</span><a href="http://data.auto.qq.com/car_purchases/cxdg/car_column_1.shtml" target="_blank" class="link" onClick="purchasesBossClick('index','index_focus_map');">车型导购</a></div>
-      </li>
-
-<li class="hasborder" index=4>
-        <h3><a href="http://auto.qq.com/a/20150506/014296.htm" target="_blank" onclick = "purchasesBossClick('index','index_focus_map');">四款合资居家紧凑级轿车推荐</a></h3>
-        <div class="art-desc">今天为大家推荐四款15万级紧凑级轿车，它们共同的特点就是拥有较宽敞的空间......<a href="http://auto.qq.com/a/20150506/014296.htm" target="_blank" class="link" onClick="purchasesBossClick('index','index_focus_map');">全文</a></div>
-        <div class="art-info"><span class="date">04月16日 07:00</span><a href="http://data.auto.qq.com/car_purchases/gcsc/car_column_1.shtml" target="_blank" class="link" onClick="purchasesBossClick('index','index_focus_map');">购车手册</a></div>
-      </li>
-
-      <li class="hasborder " index=5>
-        <h3><a href="http://auto.qq.com/a/20150429/008100.htm" target="_blank" onclick = "purchasesBossClick('index','index_focus_map');">不同风格精品小型车推荐</a></h3>
-        <div class="art-desc">今天推荐的这四款车型有着不同的优势，飞度在空间实用性上表现突出......<a href="http://auto.qq.com/a/20150429/008100.htm" target="_blank" class="link" onClick="purchasesBossClick('index','index_focus_map');">全文</a></div>
-        <div class="art-info"><span class="date">04月29日 07:00</span><a href="http://data.auto.qq.com/car_purchases/cxdg/car_column_1.shtml" target="_blank" class="link" onClick="purchasesBossClick('index','index_focus_map');">车型导购</a></div>
-      </li>
-
-
-      
-
-      
-
-
-
-      
-
-    </ul>
-  </div>
-  <script>
-
- 
-
-              var focusPicEl = document.getElementById("mod_focus_pic").getElementsByTagName("li");
-              var focusTxtEl = document.getElementById("mod_focus_txt").getElementsByTagName("li");
-//            var focusTimer = null;
-              var focus_cur = 1;
-              var nextPicIndex = 1;
-              var itemLen = 5;
-              for(var i=0;i<itemLen;i++ ){
-
- 
-
-                     focusTxtEl[i].onmouseover = function(){              
-
- 
-
-                            setFocus(parseInt(this.getAttribute("index")));
-
- 
-
-                     }
-
- 
-
-//                     focusTxtEl[i].onmouseout = function(){
-
- 
-
-//                            focusTimer = setTimeout("focusChange("+nextPicIndex+")",5000);
-
- 
-
-//                     }
-
- 
-
-              }       
-
- 
-
-              
-
- 
-
-//              function focusChange(id){
-
- 
-
-//                     setFocus(id)
-
- 
-
-//                     focusTimer = setTimeout("focusChange("+nextPicIndex+")",5000);
-
- 
-
-//              }
-
- 
-
- 
-
- 
-
-              function setFocus(id){
-
- 
-
-//                     clearTimeout(focusTimer);
-
- 
-
-                     for (var i = 1; i <= itemLen; i++) {
-
- 
-
-                            if(i == id){
-
- 
-
-                                   focusTxtEl[i-1].className="current";
-
- 
-
-                                   focusPicEl[i-1].style.display = "block";
-
- 
-
-                            }else{
-
- 
-
-                                   focusTxtEl[i-1].className = (focusTxtEl[i-1].getAttribute("index") 
-
- 
-
-==itemLen)?"":"hasborder";
-
- 
-
-                                   focusPicEl[i-1].style.display = "none";
-
- 
-
-                            }                                   
-
- 
-
-                     }
-
- 
-
-                     if ((nextPicIndex = id + 1) > itemLen){
-
- 
-
-                            nextPicIndex = 1;
-
- 
-
-                     }
-
- 
-
-                     focus_cur = id;
-
- 
-
-              }
-
- 
-
- 
-
- 
-
-//              focusTimer = setTimeout("focusChange(focus_cur)",5000);
-
- 
-
-       </script> 
-</div><!--[if !IE]>|xGv00|4b17fc5fa500b652f24d5efb5166d286<![endif]-->
-		<!-- 焦点图 结束 -->	
-	
-		<!--到店实拍-->
-		<div class="real-photos">
-			<div class="hd clearfix">
-				<h2><a href="/car_purchases/picture/car_column_1.shtml" target="_blank">到店实拍</a></h2>
-				<a href="/car_purchases/picture/car_column_1.shtml" target="_blank" class="more link">更多</a>
-			</div>
-			<div class="bd clearfix">
-				<ul>
-<li onmouseover="this.className+=' hover';" onmouseout="this.className=this.className.replace(' hover','');" class="mr28">
-<a href="http://auto.qq.com/a/20150616/008876.htm" target="_blank" class="pic" title="[新车实拍]哈弗H8到店实拍 向豪华迈进" onclick="purchasesBossClick('index','index_picture_area');"><img src="http://img1.gtimg.com/auto/pics/hv1/192/184/1860/120993612.jpg" alt="[新车实拍]哈弗H8到店实拍 向豪华迈进"></a><p class="blue039 cl">
-<a target="_blank" class="fleft" onclick="purchasesBossClick('index','index_picture_area');" href="http://auto.qq.com/a/20150616/008876.htm"></a><span>2015-06-16 </span>
-</p>
-</li>
-<li onmouseover="this.className+=' hover';" onmouseout="this.className=this.className.replace(' hover','');" class="mr28">
-<a href="http://auto.qq.com/a/20150611/039994.htm" target="_blank" class="pic" title="[新车实拍]揽胜运动版SVR实拍 史上最强路虎" onclick="purchasesBossClick('index','index_picture_area');"><img src="http://img1.gtimg.com/auto/pics/hv1/96/191/1858/120865251.jpg" alt="[新车实拍]揽胜运动版SVR实拍 史上最强路虎"></a><p class="blue039 cl">
-<a target="_blank" class="fleft" onclick="purchasesBossClick('index','index_picture_area');" href="http://auto.qq.com/a/20150611/039994.htm"></a><span>2015-06-12 </span>
-</p>
-</li>
-<li onmouseover="this.className+=' hover';" onmouseout="this.className=this.className.replace(' hover','');">
-<a href="http://auto.qq.com/a/20150611/007031.htm" target="_blank" class="pic" title="[新车实拍]逸动EV电动车实拍 新能源先锋" onclick="purchasesBossClick('index','index_picture_area');"><img src="http://img1.gtimg.com/auto/pics/hv1/87/189/1853/120539607.jpg" alt="[新车实拍]逸动EV电动车实拍 新能源先锋"></a><p class="blue039 cl">
-<a target="_blank" class="fleft" onclick="purchasesBossClick('index','index_picture_area');" href="http://auto.qq.com/a/20150611/007031.htm"></a><span>2015-06-11 </span>
-</p>
-</li>
-</ul>
-<!--[if !IE]>|xGv00|655837989d8839f80a46658471861f94<![endif]-->				
-			</div>        
-		</div>	
-		<!--购车手册-->
-		<div class="auto-manual">
-			<div class="hd">
-				<h2><a href="/car_purchases/gcsc/car_column_1.shtml" target="_blank">购车手册</a></h2>
-				<a href="/car_purchases/gcsc/car_column_1.shtml" target="_blank" class="more link">更多</a>
-			</div>
-			<div class="bd">
-				<div class="ttlArea"><a href="http://auto.qq.com/a/20150616/008611.htm" target="_blank" title="6万元英伦代步小车哪款最值？推荐尊贵型" onclick="purchasesBossClick('index','index_purchases_area');">6万元英伦代步小车哪款最值？推荐尊贵型</a></div>
-<div class="midArea">
-<div class="imgArea"><a href="http://auto.qq.com/a/20150616/008611.htm" target="_blank" onclick="purchasesBossClick('index','index_purchases_area');"><img alt="6万元英伦代步小车哪款最值？推荐尊贵型" src="http://img1.gtimg.com/auto/pics/hv1/115/104/1854/120582985_small2.jpg"></a></div>
-<div class="txtArea">吉利官方宣布美日车型正式更名为英伦C5后依旧推出两厢版和三厢版共计9款车型，新…<a href="http://auto.qq.com/a/20150616/008611.htm" target="_blank" class="link" onclick="purchasesBossClick('index','index_purchases_area');">全文</a>
-</div>
-</div>
-<div class="ftArea"><ul>
-<li><a href="http://auto.qq.com/a/20150615/006169.htm" target="_blank" title="山寨小途锐哪款最值？推荐1.8T CVT优雅型" onclick="purchasesBossClick('index','index_purchases_area');">山寨小途锐哪款最值？推荐1.8T CVT优雅型</a></li>
-<li><a href="http://auto.qq.com/a/20150614/005172.htm" target="_blank" title="哈弗H6运动版1.5T 荐手动精英/自动豪华版" onclick="purchasesBossClick('index','index_purchases_area');">哈弗H6运动版1.5T 荐手动精英/自动豪华版</a></li>
-</ul></div>
-<!--[if !IE]>|xGv00|57bdd0da9fc23db9644ea50c380c8fb6<![endif]-->				
-			</div>		
-		</div>	
-		<!--捉对PK-->
-        <div class="PK-area">
-	<div class="hd">
-		<h2><a href="/car_purchases/pk/car_column_1.shtml" target="_blank" onclick="purchasesBossClick('index','index_pk_area');">捉对PK</a></h2>
-		<a href="/car_purchases/pk/car_column_1.shtml" target="_blank" class="more link" onclick="purchasesBossClick('index','index_pk_area');">更多</a>
-	</div>
-	<div class="bd">
-		<div class="ttlArea"><a href="" target="_blank" title="" onclick="purchasesBossClick('index','index_pk_area');"></a></div>
-		<div class="midArea">
-			<div class="imgArea">
-				<a href="" target="_blank" onclick="purchasesBossClick('index','index_pk_area');"><img alt="" src=""></a>
-				<i class="PK-icon"></i>
-				<a href="" target="_blank" onclick="purchasesBossClick('index','index_pk_area');"><img alt="" src=""></a>
-			</div>
-		</div>
-		<div class="ftArea">
-			<ul>
-				<li><a href="" target="_blank" title="" onclick="purchasesBossClick('index','index_pk_area');"></a></li>
-				<li><a href="" target="_blank" title="" onclick="purchasesBossClick('index','index_pk_area');"></a></li>
-			</ul>
-		</div>
-	</div>	
-</div><!--[if !IE]>|xGv00|e0da44610b477a7c486569a4cc2d3f30<![endif]-->
-		<!--腾讯任务-->		
-		<div class="tencent-task">
-<div class="hd">
-<h2><a href="http://data.auto.qq.com/car_purchases/txrw/car_column_1.shtml" target="_blank" onclick="purchasesBossClick('index','index_task_area');">腾讯任务</a></h2>
-<a href="http://data.auto.qq.com/car_purchases/txrw/car_column_1.shtml" target="_blank" class="more link" onclick="purchasesBossClick('index','index_task_area');">更多</a>
-</div>
-<div class="bd focus">
-<div id="pic"><ul>
-<li title="腾讯任务57期：不同价位7座SUV特辑" imgurl="http://img1.gtimg.com/auto/pics/hv1/187/196/1884/122557267.jpg"><a href="http://auto.qq.com/zt2015/mission57/index.htm" target="_blank" onclick="purchasesBossClick('index','index_task_area');"><img id="bigimg_1" alt="腾讯任务57期：不同价位7座SUV特辑" src="http://img1.gtimg.com/auto/pics/hv1/187/196/1884/122557267.jpg"></a></li>
-<li title="2015亚洲CES腾讯任务特刊&#8212;&#8212;我的汽车科技狂想" imgurl="http://img1.gtimg.com/auto/pics/hv1/104/155/1884/122546729.jpg"><a href="http://auto.qq.com/zt2015/mission56/index.htm" target="_blank" onclick="purchasesBossClick('index','index_task_area');"><img id="bigimg_1" alt="2015亚洲CES腾讯任务特刊&#8212;&#8212;我的汽车科技狂想" src="http://img1.gtimg.com/auto/pics/hv1/104/155/1884/122546729.jpg"></a></li>
-<li title="腾讯任务55期：2.0T豪华中型SUV特辑" imgurl="http://img1.gtimg.com/auto/pics/hv1/125/127/1884/122539610.jpg"><a href="http://auto.qq.com/zt2015/mission55/index.htm" target="_blank" onclick="purchasesBossClick('index','index_task_area');"><img id="bigimg_1" alt="腾讯任务55期：2.0T豪华中型SUV特辑" src="http://img1.gtimg.com/auto/pics/hv1/125/127/1884/122539610.jpg"></a></li>
-<li title="腾讯任务54期：五口之家的MPV之选" imgurl="http://img1.gtimg.com/auto/pics/hv1/161/103/1884/122533526.jpg"><a href="http://auto.qq.com/zt2015/mission54/index.htm" target="_blank" onclick="purchasesBossClick('index','index_task_area');"><img id="bigimg_1" alt="腾讯任务54期：五口之家的MPV之选" src="http://img1.gtimg.com/auto/pics/hv1/161/103/1884/122533526.jpg"></a></li>
-<li title="腾讯任务53期：寻找蓝天" imgurl="http://img1.gtimg.com/auto/pics/hv1/166/241/1813/117951946.jpg"><a href="http://auto.qq.com/zt2015/mission_find/index.htm" target="_blank" onclick="purchasesBossClick('index','index_task_area');"><img id="bigimg_1" alt="腾讯任务53期：寻找蓝天" src="http://img1.gtimg.com/auto/pics/hv1/166/241/1813/117951946.jpg"></a></li>
-</ul></div>
-<div class="tip-bg"></div>
-<div class="pic_title"><span id="pic_title">腾讯任务57期：不同价位7座SUV特辑</span></div>
-<div id="tip"><ul>
-<li id="smallimg_1" onclick="change(1);purchasesBossClick('index','index_task_area');" class="current">
-<li id="smallimg_2" onclick="change(2);purchasesBossClick('index','index_task_area');">
-<li id="smallimg_3" onclick="change(3);purchasesBossClick('index','index_task_area');">
-<li id="smallimg_4" onclick="change(4);purchasesBossClick('index','index_task_area');">
-<li id="smallimg_5" onclick="change(5);purchasesBossClick('index','index_task_area');">
-</ul></div>
-<div class="btn"><ul>
-<li class="focus-prev" onclick="focus_prev();purchasesBossClick('index','index_task_area');" onmouseover="this.className='focus-prev hover';" onmouseout="this.className='focus-prev'"><a href="javascript:void(0);"><img src="http://img1.gtimg.com/auto/pics/hv1/166/241/1813/117951946.jpg" id="focus_img_left"></a></li>
-<li class="focus-next" onclick="focus_next();purchasesBossClick('index','index_task_area');" onmouseover="this.className='focus-next hover';" onmouseout="this.className='focus-next'"><a href="javascript:void(0);"><img src="http://img1.gtimg.com/auto/pics/hv1/104/155/1884/122546729.jpg" id="focus_img_right"></a></li>
-</ul></div>
-</div>
-</div>
-<script>
-			var isround = "";
-			var scrollmove = "";
-			var masktime = 10;
-			var task_cur = 1;
-			var p = document.getElementById("pic").getElementsByTagName("li");
-			var h = document.getElementById("tip").getElementsByTagName("li");
-			function change(id){
-				clearTimeout(isround);
-				clearInterval(scrollmove);
-				for (var i = 1; i <= h.length; i++) {
-					if(i == id){
-						document.getElementById("smallimg_"+i).className="current";
-					}else{
-						document.getElementById("smallimg_"+i).className="";
-					}
-				}
-				document.getElementById("pic_title").innerHTML =  p[id-1].getAttribute("title");
-				if ((next = id + 1) > h.length){
-					next = 1;
-				}
-				var prev = id - 1;
-				if (prev < 1){
-					prev = h.length;
-				}
-				document.getElementById("focus_img_left").src = p[prev-1].getAttribute("imgurl");
-				document.getElementById("focus_img_right").src = p[next-1].getAttribute("imgurl");
-				isround = setTimeout("change("+next+")",8000);
-				scrollmove = setInterval("scrollMove("+id+")",masktime);
-				task_cur = id;
-			}
-			function scrollMove(m){
-				var srl = document.getElementById("pic").scrollLeft;
-				var dsrl = Math.floor((p[0].clientWidth*(m-1)-srl)/5);
-				var xsrl = Math.ceil((p[0].clientWidth*(m-1)-srl)/5);
-				if(srl > p[0].clientWidth*(m-1)){
-					document.getElementById("pic").scrollLeft = srl + dsrl;
-				}else if(srl < p[0].clientWidth*(m-1)){
-					document.getElementById("pic").scrollLeft = srl + xsrl;
-				}else{
-					clearInterval(scrollmove);
-				}
-			}
-			function focus_prev(){
-				var prev = (task_cur+4)%5;
-				if(prev == "0"){
-					prev = 5;
-				}
-				change(prev);
-			}
-			function focus_next(){
-				var next = (task_cur+1)%5;
-				if(next == "0"){
-					next = 5;
-				}
-				change(next);
-			}
-			isround = setTimeout("change(2)",8000);
-			</script>
-<!--[if !IE]>|xGv00|022b2cd6b41d1c49d93ca192fb65e1e4<![endif]-->			
-        <!--多车导购-->
-        <div  class="shopping-guide" style="clear:both;">	<div class="hd">				<h2><a href="/car_purchases/cxdg/car_column_1.shtml" target="_blank" onclick="purchasesBossClick('index','index_guide');">多车导购</a></h2>		<a href="/car_purchases/cxdg/car_column_1.shtml" target="_blank" class="more link" onclick="purchasesBossClick('index','index_guide');">更多</a>	</div>	<div class="bd">		<ul>					</ul>	</div></div><!--[if !IE]>|xGv00|c702110a0d1b4edd117dc7e9c6fdf95c<![endif]-->
-        <!--行情中心-->
-        <div class="shopping-guide quotation-center">	<div class="hd">				<h2><a href="/car_public/1/hq.shtml" target="_blank" onclick="purchasesBossClick('index','index_hq_area');">行情中心</a></h2>		<a href="/car_public/1/hq.shtml" target="_blank" class="more link" onclick="purchasesBossClick('index','index_hq_area');">更多</a>	</div>	<div class="bd">		<ul>						<li><a href="//auto.qq.com/a/20181009/004657.htm" title=" 骐达最高优惠1.14万元" target="_blank" onclick="purchasesBossClick('index','index_hq_area');"> 骐达最高优惠1.14万元</a><span class="time">2018-10-09</span></li>						<li><a href="//auto.qq.com/a/20181009/004650.htm" title=" 轩逸最高优惠2.52万元" target="_blank" onclick="purchasesBossClick('index','index_hq_area');"> 轩逸最高优惠2.52万元</a><span class="time">2018-10-09</span></li>						<li><a href="//auto.qq.com/a/20181009/004649.htm" title="重庆 本田CR-V最高优惠0.50万元" target="_blank" onclick="purchasesBossClick('index','index_hq_area');">重庆 本田CR-V最高优惠0.50万元</a><span class="time">2018-10-09</span></li>						<li><a href="//auto.qq.com/a/20181009/004647.htm" title=" 劲客最高优惠1.95万元" target="_blank" onclick="purchasesBossClick('index','index_hq_area');"> 劲客最高优惠1.95万元</a><span class="time">2018-10-09</span></li>						<li><a href="//auto.qq.com/a/20181009/004646.htm" title="北京 奇骏最高优惠2.00万元" target="_blank" onclick="purchasesBossClick('index','index_hq_area');">北京 奇骏最高优惠2.00万元</a><span class="time">2018-10-09</span></li>						<li><a href="//auto.qq.com/a/20181009/004642.htm" title="北京 楼兰最高优惠4.00万元" target="_blank" onclick="purchasesBossClick('index','index_hq_area');">北京 楼兰最高优惠4.00万元</a><span class="time">2018-10-09</span></li>						<li><a href="//auto.qq.com/a/20181009/004641.htm" title=" 骊威最高优惠1.93万元" target="_blank" onclick="purchasesBossClick('index','index_hq_area');"> 骊威最高优惠1.93万元</a><span class="time">2018-10-09</span></li>					</ul>	</div></div><!--[if !IE]>|xGv00|c0f4ad636ba8e75d68921e9ef5e4a6a5<![endif]-->
-
-</div>
-<div class="right-wrap">
-	<!--爱车定位-->
-		<div class="car-search" id="car-search">
-			<div class="hd">		
-				<h2><a href="/car_purchases/car_search.shtml" target="_blank">查找爱车</a></h2>
-			</div>
-			<div class="bd">
-				<form>
-				<div class="search-brand">
-				<label>品牌:</label>
-<!--      品牌车系、关键字搜索       BEGIN-->
- 
-<script type="text/javascript">  
-//拼音部分
-var auto_py_key = "吖哎安肮凹八?扳邦勹陂奔??边灬憋?冫??嚓?参仓???噌叉??伥抄车抻?吃充抽出?巛?吹?踔呲从凑粗汆镩蹿崔?搓?呆丹当刀??灯?嗲?刁爹丁?东????吨多????发帆匚飞分丰???夫旮?干冈皋戈给根更工勾估瓜乖关光归丨呙???夯?诃??亨???乎花怀欢?灰昏?丌加戋江艽阶巾?冂???噘军咔开刊?尻???空??夸蒯宽匡亏坤扩垃来兰啷捞仂雷塄?俩???咧?伶溜咯龙娄噜驴孪掠抡捋?妈埋颟?猫?????宀喵乜民名谬摸哞某母??囡囔孬疒?嫩?妮拈娘鸟捏?宁妞农?奴女疟??噢?拍?乓抛呸喷?丕片剽氕姘乒钋剖仆七掐千呛悄切亲??丘区?炔????荛惹人扔日戎????闰?仨?三??色森僧杀筛山伤?奢申升尸?书刷衰闩双谁妁厶忪?苏狻?孙唆他?坍汤?忑?剔天??厅?偷凸湍推吞乇?歪??危?翁挝乌夕呷仙乡?些忄兴凶休戌???丫咽央幺??一?应哟佣优??曰???????贼怎?吒?沾张?蜇贞?之中州朱抓拽专妆隹?卓仔?宗邹租??尊昨".split("");
-var auto_py_pinyin = "a ai an ang ao ba bai ban bang bao bei ben beng bi bian biao bie bin bing bo bu ca cai can cang cao ce cen ceng cha chai chan chang chao che chen cheng chi chong chou chu chuai chuan chuang chui chun chuo ci cong cou cu cuan chuan cuan cui cun cuo da dai dan dang dao de den deng di dia dian diao die ding diu dong dou du duan dui dun duo e en eng er fa fan fang fei fen feng fiao fo fou fu ga gai gan gang gao ge gei gen geng gong gou gu gua guai guan guang gui gun guo ha hai han hang hao he hei hen heng ho hong hou hu hua huai huan huang hui hun huo ji jia jian jiang jiao jie jin jing jiong jiu ju juan jue jun ka kai kan kang kao ke ken keng kong kou ku kua kuai kuan kuang kui kun kuo la lai lan lang lao le lei leng li lia lian liang liao lie lin ling liu lo long lou lu lv luan lve lun luo m ma mai man mang mao me mei men meng mi mian miao mie min ming miu mo mou mei mu na nai nan nang nao ne nei nen n ni nian niang niao nie nin ning niu nong nou nu nv nve nuan nuo ou pa pai pan pang pao pei pen peng pi pian piao pie pin ping po pou pu qi qia qian qiang qiao qie qin qing qiong qiu qu quan que qun ra ran rang rao re ren reng ri rong rou ru ruan rui run ruo sa sai san sang sao se sen seng sha shai shan shang shao she shen sheng shi shou shu shua shuai shuan shuang shui shuo si song sou su suan sui sun suo ta tai tan tang tao te teng ti tian tiao tie ting tong tou tu tuan tui tun tuo wa wai wan wang wei wen weng wo wu xi xia xian xiang xiao xie xin xing xiong xiu xu xuan xue xun ya yan yang yao ye yen yi yin ying yo yong you yu yuan yue yun za zai zan zang zao ze zei zen zeng zha zhai zhan zhang zhao zhe zhen zheng zhi zhong zhou zhu zhua zhuai zhuan zhuang zhui zhun zhuo zai zi zong zou zu zuan zui zun zuo".split(/\x20/);
-var cache = {};
-var arrTree = [];
-var Cn2PinYin;
-function _set_bin_tree(a,b)
-{
-	var c = Math.floor((a+b) / 2);
-	if(c==b && b<a)			//节点
-	{
-		arrTree.push("r='", auto_py_pinyin[c], "';");
-		return;
-	}
-	arrTree.push(			//左分支
-	"if(w.localeCompare('", auto_py_key[c], "')<0)");
-	_set_bin_tree(a, c-1, 1);
-	arrTree.push("else ");	//右分支
-	_set_bin_tree(c+1, b, 2);
-}
-function set_pinyin_init()
-{
-	arrTree.push("var r=cache[w];if(!r)");				//检查缓存
-	_set_bin_tree(0, auto_py_key.length-1);								//-递归生成源码
-	arrTree.push("return cache[w]=r;");					//-写入缓存
-	Cn2PinYin = new Function("w", arrTree.join(""));	//编译
-}
-function get_cur_pinyin(content)
-{
-	var fn = Cn2PinYin;
-	var arr = [];
-	var ch;
-	for(var i=0,n=content.length; i<n; i++)
-	{
-		ch = content.charAt(i);
-		arr[i] = (ch<"一" || ch>"?")?ch:fn(ch);
-	}
-	return arr.join("");
-}
-var AutoSiteSearch_index={
-	search_url:"//cgi.data.auto.qq.com/php/search.php",
-	auto_url:"//data.auto.qq.com/",
-	cur_keyword:"",
-	is_presskeyword:false,
-	init_keyword_str:"车型名称/拼音",
-	ad_keyword_str:"车型名称/拼音",
-	all_inputlist_num:0,
-	cur_inputlist_num:0,
-	parameter:function(name){
-		var reg=new RegExp("([\?|&])"+ name +"=([^&]*)");
-		if (reg.test(location.href)) return decodeURIComponent(RegExp.$2.replace(/\+/g, " ")); return "";
-	},
-	$:function(s){
-		return(typeof s=='object')?s:document.getElementById(s);
-	},
-	bind:function(el,evt,fn){
-		if(el.attachEvent){
-			el.attachEvent("on"+evt,fn);
-		}else if(el.addEventListener){
-			el.addEventListener(evt,fn,false);
-		}else{
-			el["on"+evt]=fn;
-		}
-	},//$(s)
-	Browser:{
- 
-		ie:/msie/.test(window.navigator.userAgent.toLowerCase()),
-		moz:/gecko/.test(window.navigator.userAgent.toLowerCase()),
-		opera:/opera/.test(window.navigator.userAgent.toLowerCase()),
-		safari:/safari/.test(window.navigator.userAgent.toLowerCase())
- 
-	},
- 
-	JsLoader:{
-		load: function(sUrl, fCallback, chset)
-		{
- 
-			var _script = document.createElement("script");
-			_script.setAttribute("type", "text/javascript");
-			_script.setAttribute("src", sUrl);
- 
-			if (chset)
-			_script.setAttribute("charset", chset);
-			else
-			_script.setAttribute("charset", "gb2312");
- 
-			document.getElementsByTagName("head")[0].appendChild(_script);
- 
-			if (AutoSiteSearch_index.Browser.ie)
-			{
-				_script.onreadystatechange = function()
-				{
-					if (this.readyState=="loaded" || this.readyState=="complete")
-					{
-						fCallback();
-					}
-				};
-			}
-			else if (AutoSiteSearch_index.Browser.moz)
-			{
-				_script.onload = function()
-				{
-					fCallback();
-				};
-			}
-			else
-			{
-				fCallback();
-			}
-		}
-	},
-	loadManuList:function(){
-		var url="//js.data.auto.qq.com/car_public/1/manufacturer_list_json.js";
-		AutoSiteSearch_index.JsLoader.load(url,function(){
-			var data=oManufacturerData.arrManufacturer;
-			var sel=AutoSiteSearch_index.$("id_manulist");
-			var classes=["one","two"];
-			var clen=classes.length;
-			var cidx=0;
-			var fl="";
-			var ulist=null;
-			var len=data.length;
-			//AutoSiteSearch_index.$("id_total").innerHTML="共<font>"+len+"</font>款车型";
-			for(var i=0;i<len;i++){
-				var item=data[i];
-				if(fl!=item["FirstLetter"]){
-					fl=item["FirstLetter"];
-					if(ulist){
-						sel.appendChild(ulist);
-					}
-					ulist=document.createElement("ul");
-					ulist.className=classes[cidx%clen];
-					var li=document.createElement("li");
-					li.className="jz";
-					li.innerHTML=item.FirstLetter;
-					ulist.appendChild(li);
-					cidx++;
-				}//else{
-				var li=document.createElement("li");
-				var a=document.createElement("a");
-				a.innerHTML=item.Name;
-				a.href="javascript:void(0);";
-				a.target="_self";
-				a.setAttribute("manuid",item.ID);
-				a.setAttribute("isselect",true);
-				li.appendChild(a);
-				ulist.appendChild(li);
-				//}
-			}
-			if(ulist){
-				sel.appendChild(ulist);
-			}
-		});
-	},
-	selectManu:function(e){
-		e=e||window.event;
-		var def=AutoSiteSearch_index.$("id_manu_selected");
-		var el=e.srcElement||e.target;
-		if(el.tagName.toUpperCase()==="A"){
-			AutoSiteSearch_index.doSelect(def,el);
-			var id=el.getAttribute("manuid");
-  
-			def.setAttribute("manuid",id);
-			var dd=AutoSiteSearch_index.$("xlcd2");
-			if(id==0){
-				var sel=AutoSiteSearch_index.$("id_seriallist");
-				sel.innerHTML='<ul><li><a href="javascript:void(0);" serialid="0" isselect="true" target="_self">选择车系 :::::::</a></li></ul>';
-				var place=AutoSiteSearch_index.$("id_serial_selected");
-				place.innerHTML="选择车系 :::::::";
-				place.setAttribute("serialid",0);
-				dd.setAttribute("_disabled",true);
-				dd.style.color="gray";
-				return;
-			}else{
-				dd.setAttribute("_disabled",false);
-				dd.style.color="black";
-			}
-			AutoSiteSearch_index.JsLoader.load("//js.data.auto.qq.com/car_manufacturer/"+id+"/serial_list_json.js",function(){
-				AutoSiteSearch_index.collapseAllSelects();
-				var def=AutoSiteSearch_index.$("id_serial_selected");
-				def.removeAttribute("serialid");
-				def.innerHTML="选择车系 :::::::";
-				var data=oManufacturerSerialData.arrSerial;
-				var sel=AutoSiteSearch_index.$("id_seriallist");
-				sel.innerHTML='<ul><li><a href="javascript:void(0);" serialid="0" isselect="true" target="_self">选择车系 :::::::</a></li></ul>';
-				var ul=sel.getElementsByTagName("ul")[0];
- 
-				//var ul=document.createElement("ul");
-				//获取不同的品牌
-				var brandArr = new Array();
-				var brandIdArr = new Array();
-				for(var k=0;k<data.length;k++)
-				{
-					if(!AutoSiteSearch_index.is_InArray(brandArr,data[k].BrandName))
-					{
-						brandArr.push(data[k].BrandName);
-						brandIdArr.push(data[k].BrandId);
-					}
-				}
-				var selHeight = 0;
-				for(var j=0;j<brandArr.length;j++)
-				{
-					//品牌
-					var bli=document.createElement("li");
-					/*var ba=document.createElement("a");
-					ba.href="javascript:void(0);";
-					ba.target="_self";
-					ba.setAttribute("serialid",0);
-					ba.setAttribute("isselect",false);	*/
-					var ba = document.createElement("span");
-					//如果只有一个品牌，去掉进口
-					var brandName = brandArr[j];
-					if(brandArr.length==1)
-					{
-						if(brandArr[0].indexOf("进口")!=-1)
-						{
-							brandName = brandArr[0].substring(2);
-						}
-					}
-					//如果是上海通用雪弗莱
-					if(brandName == "上汽通用五菱雪佛兰")
-					{
-						brandName ="上汽通用五菱";
-					}
-					if(brandName == "上海通用凯迪拉克")
-					{
-						brandName = "上海通用";
-					}
-					ba.setAttribute("title",brandName);
-					ba.style.display="block";
-					ba.style.width="120px";
-					ba.style.textOverflow="ellipsis";
-					ba.style.overflow="hidden";
-					ba.style.whiteSpace="nowrap";
-					ba.innerHTML="<b>-- "+brandName+" --</b>";
-					bli.appendChild(ba);
-					ul.appendChild(bli);
-					selHeight++;
-					var i=0;
-					for(i=0,len=data.length;i<len;i++){
-						if(data[i].BrandName == brandArr[j])
-						{
-							var item=data[i];
-							var li=document.createElement("li");
-							var a=document.createElement("a");
-							a.href="javascript:void(0);";
-							a.target="_self";
-							a.setAttribute("serialid",item.ID);
-							a.setAttribute("isselect",true);
-							a.setAttribute("title",item.PureName);
-							a.innerHTML=item.PureName;
-							li.appendChild(a);
-							ul.appendChild(li);
-							selHeight++;
-						}
-					}
-				}
-				sel.style.height=((selHeight+1)*22+2)+"px";
-				//sel.appendChild(ul);
-			});
- 
-		}
-	},//selectManu(e)
-	is_InArray:function(arr,val)
-	{
-		for(var i=0;i<arr.length;i++)
-		{
-			if(arr[i] == val)
-			return true;
-		}
-		return false;
-	},
-	selectSerial:function(e){
-		e=e||window.event;
-		var def=AutoSiteSearch_index.$("id_serial_selected");
-		var a=e.srcElement||e.target;
-		if(a.tagName.toUpperCase()==="A"){
-			AutoSiteSearch_index.doSelect(def,a);
-			var id=a.getAttribute("serialid");
-			def.setAttribute("serialid",id);
- 
-			purchasesBossClick('index','index_search_brand');//通过品牌检索方式去车系的次数
-			purchasesBossClick('index','index_search');//检索区域整体点击次数统计
-			window.open("//data.auto.qq.com/car_purchases/"+id+"/index.shtml")
-		}
-	},//selectSerial(e)
-	selectPrice:function(e){
-		e=e||window.event;
-		var def=AutoSiteSearch_index.$("id_price_selected");
-		var a=e.srcElement||e.target;
-		if(a.tagName.toUpperCase()==="A"){
-			AutoSiteSearch_index.doSelect(def,a);
-			var id=a.getAttribute("priceid");
-			def.setAttribute("priceid",id);
- 		}
-	},//selectPrice(e)
-	selectBodywork:function(e){
-		e=e||window.event;
-		var def=AutoSiteSearch_index.$("id_bodywork_selected");
-		var a=e.srcElement||e.target;
-		if(a.tagName.toUpperCase()==="A"){
-			AutoSiteSearch_index.doSelect(def,a);
-			var id=a.getAttribute("bodyworkid");
-			def.setAttribute("bodyworkid",id);
- 		}
-	},//selectBodywork
-	searchBySerial:function(){
-		var manuid=AutoSiteSearch_index.$("id_manu_selected").getAttribute("manuid")-0;
-		var serialid=AutoSiteSearch_index.$("id_serial_selected").getAttribute("serialid")-0;
- 
-		if(serialid){
-			window.open("//data.auto.qq.com/car_serial/"+serialid+"/index.shtml");
-		}else if(manuid){
- 
-			window.open("//cgi.data.auto.qq.com/php/search.php?manufacturer_id="+manuid);
-		}else{
-			alert("请选择品牌或车系");
-		}
-		return false;
-	},//searchBySerial()
-	searchByPriceAndBodywork:function(){
-		var priceid=AutoSiteSearch_index.$("id_price_selected").getAttribute("priceid")-0;
-		var bodyworkid=AutoSiteSearch_index.$("id_bodywork_selected").getAttribute("bodyworkid")-0;
-  
-		if(priceid){
-			if(bodyworkid){
-				window.open("//cgi.data.auto.qq.com/php/search.php?price="+priceid+"&bodywork="+bodyworkid);
-			}else{
-				window.open("//cgi.data.auto.qq.com/php/search.php?price="+priceid);
-			}
-		}else if(bodyworkid){
-			window.open("//cgi.data.auto.qq.com/php/search.php?bodywork="+bodyworkid);
-		}else{
-			alert("请选择价格或级别");
-		}
-		return false;
-	},//searchByPriceAndBodywork()
-	clickSearchButton:function(){
-		AutoSiteSearch_index.cur_inputlist_num=0;
-		return AutoSiteSearch_index.searchByKeyword();
-	},
-	searchByKeyword:function(){
-		var keyword = document.getElementById("id_keyword").value;
-		var cata = 0;
-		if (keyword == null || keyword == "" || keyword == AutoSiteSearch_index.init_keyword_str)
-		{
-			alert("\u8BF7\u8F93\u5165\u67E5\u8BE2\u5173\u952E\u5B57");
-			return false;
-		}
-		switch (parseInt(cata)) {
-			case 0:
-			{
-				if(AutoSiteSearch_index.cur_inputlist_num!=0)
-				{
-					AutoSiteSearch_index.search_keyword_v2(AutoSiteSearch_index.$('input_a_'+AutoSiteSearch_index.cur_inputlist_num).innerHTML);
-					return false;
-				}
-  
-				window.open("//cgi.data.auto.qq.com/php/search.php?fuzzy_search=1&keyword=" + encodeURIComponent(keyword));
-			}
-			break;
-			case 1:
-			window.open("//news.soso.com/n.q?w=" + keyword + "&site=auto.qq.com&cid=w.q.auto.s&ty=diary&sc=news");
-			break;
-			case 2:
-			window.open("//blog.soso.com/qz.q?w=" + keyword + "&site=auto.qq.com&cid=w.q.auto.s&ty=diary&sc=blog");
-			break;
-			case 3:
-			window.open("//bbs.qq.com/search/?cont=" + keyword);
-			break;
-			default:;
-		}
-		return false;
-	},//searchByKeyword()
-	selectKey:function(evt){
-		evt=evt||window.event;
-		var el=evt.srcElement||evt.target;
-		var textbox=AutoSiteSearch_index.$("id_keyword");
-		textbox.value=el.innerHTML;
-		AutoSiteSearch_index.searchByKeyword();
-	},//selectKey(evt)
-	doSelect:function(def,a){
-		if(a.tagName.toUpperCase()==="A"){
-			def.innerHTML=a.innerHTML;
-		}
-	},//doSelect(def,a)
-	doType:function(){
-		if(window.oManufacturerData&&window.oManufacturerData.arrManufacturer){
-			var data=oManufacturerData.arrManufacturer;
-			var text=AutoSiteSearch_index.$("id_keyword").value;
-			if(text==""){
-				return;
-			}
-			var dropdown=AutoSiteSearch_index.$("id_dropdown");
-			dropdown.innerHTML="";
-			var appended=false;
-			for(var i=0,len=data.length;i<len;i++){
-				var item=data[i];
-				if(item.Name&&item.Name.indexOf(text)!=-1){
-					appended=true;
-					var li=document.createElement("li");
-					var a=document.createElement("a");
-					a.setAttribute("isselect",true);
-					a.href="javascript:void(0);";
-					a.target="_self";
-					a.innerHTML=item.Name;
-					li.appendChild(a);
-					dropdown.appendChild(li);
-				}
-			}
-			if(appended){
-				AutoSiteSearch_index.$("xlcd5cont").style.display="block";
-			}
-		}
-	},//doType
-	collapseAllSelects:function(){
-		var list=document.getElementsByTagName("div");
-		for(var i=0,len=list.length;i<len;i++){
-			var item=list[i];
-			if(item.getAttribute("isselect")){
-				item.style.display="none";
-			}
-		}
-	},//collapseAllSelects()
-	collapseOtherSelects:function(thisid){
-		var list=document.getElementsByTagName("div");
-		for(var i=0,len=list.length;i<len;i++){
-			var item=list[i];
-			if(item.getAttribute("isselect")&&item.id!=thisid){
-				item.style.display="none";
-			}
-		}
-	},//collapseOtherSelects(thisid)
-	onClickSelect:function(evt,id,disobj){
-		evt=evt||window.event;
-		var el=evt.srcElement||evt.target;
-		var shadow1=AutoSiteSearch_index.$(id);
-		if(disobj&&disobj.getAttribute("_disabled")=="true"){
-			return;
-		}
-		if(shadow1.style.display=="block"){
-			shadow1.style.display = "none";
-		}
-		else{
-			shadow1.style.display = "block";
-		}
-	},//alexsun add smartbox
-	keyup_keyword:function(e)
-	{
-		var ev = e? e : window.event;
-		AutoSiteSearch_index.is_presskeyword=true;
-		if(ev.keyCode==27)
-		{
-			AutoSiteSearch_index.blur_keyword(AutoSiteSearch_index.$('id_keyword'));
-			AutoSiteSearch_index.close_smartbox();
-		}else if(ev.keyCode==40)
-		{
-			//方向键-下
-			if(AutoSiteSearch_index.$('id_keyword').value=='')
-			{
-				return false;
-			}
-			AutoSiteSearch_index.$('search_inputlist').style.display="block";
-			AutoSiteSearch_index.focus_inputlist(AutoSiteSearch_index.cur_inputlist_num,0);
-		}else if(ev.keyCode==38){
-			//方向键-上
-			if(AutoSiteSearch_index.$('id_keyword').value=='')
-			{
-				return false;
-			}
-			AutoSiteSearch_index.$('search_inputlist').style.display="block";
-			AutoSiteSearch_index.focus_inputlist(AutoSiteSearch_index.cur_inputlist_num,1);
-		}else{
-			AutoSiteSearch_index.open_smartbox();
-		}
-	},
-	focus_inputlist:function(id,flag)
-	{
-		if(flag==0)
-		{
-			id+=1;
-		}else{
-			id-=1;
-		}
-		if(id>=AutoSiteSearch_index.all_inputlist_num)
-		{
-			id=AutoSiteSearch_index.all_inputlist_num;
-		}
-		if(id<=0)
-		{
-			id=0;
-		}
-		if(AutoSiteSearch_index.$('input_item_'+id))
-		{
-			for(i=1;i<(AutoSiteSearch_index.all_inputlist_num+1);i++)
-			{
-				AutoSiteSearch_index.$('input_item_'+i).className='';
-			}
-			AutoSiteSearch_index.$('input_item_'+id).className="focus2";
-			AutoSiteSearch_index.cur_inputlist_num=id;
-		}
-	},
-	open_smartbox:function()
-	{
-		var keyword=AutoSiteSearch_index.$('id_keyword').value;
-		AutoSiteSearch_index.search_smartbox(keyword);
-		return false;
-	},
-	close_smartbox:function()
-	{
-		AutoSiteSearch_index.cur_inputlist_num=0;
-		AutoSiteSearch_index.close_single_smartbox();
-		return false;
-						alert("sony close");
-	},
-	close_single_smartbox:function()
-	{
-		var item=AutoSiteSearch_index.$('search_inputlist');
-		if(typeof(item)!=null && item.style.display != 'none')
-		{
-			item.style.display="none";
-		}
-		return true;
-	},
-	search_smartbox:function(keyword)
-	{
-		AutoSiteSearch_index.all_inputlist_num=0;
-		AutoSiteSearch_index.cur_inputlist_num=0;
-		if(keyword!='' && keyword!=AutoSiteSearch_index.init_keyword_str)
-		{
-			//先转换为拼音
-			keyword=get_cur_pinyin(keyword.toLowerCase().replace(/\s/,''));
-			//再进行比对
-			var tmp_html_str='<ul>';
-			if(typeof _autoapp_site_serial_py_json != "undefined")
-			{
-				for(key in _autoapp_site_serial_py_json)
-				{
-					if(AutoSiteSearch_index.all_inputlist_num>=9)
-					{
-						break;
-					}
-					if(_autoapp_site_serial_py_json[key]['p'].match(keyword)!=null)
-					{
-						tmp_html_str+='<li id="input_item_'+(AutoSiteSearch_index.all_inputlist_num+1)+'" onmouseover="return AutoSiteSearch_index.mouseover_item('+(AutoSiteSearch_index.all_inputlist_num+1)+');"><a href="#" id="input_a_'+(AutoSiteSearch_index.all_inputlist_num+1)+'" style="display:none">'+_autoapp_site_serial_py_json[key]['i']+'</a><a href="javascript:alert(1);" onclick="return AutoSiteSearch_index.click_inputlist_item('+(AutoSiteSearch_index.all_inputlist_num+1)+','+_autoapp_site_serial_py_json[key]['i']+');" title="'+_autoapp_site_serial_py_json[key]['n']+'">';
-						tmp_sname=_autoapp_site_serial_py_json[key]['n'];
-						if(AutoSiteSearch_index.gb_length(tmp_sname)>20)
-						{
-							tmp_sname=AutoSiteSearch_index.gb_substr(tmp_sname,17)+"...";
-						}
- 
-						tmp_html_str+=tmp_sname;
-						if(typeof(_autoapp_site_serial_py_json[key]['d'])!='undefined')
-						{
-							tmp_html_str+='<font style="color:#666">(进口)</font>';
-							tmp_sname+='(进口)';
-						}
-						tmp_sblank='';
-						for(i=AutoSiteSearch_index.gb_length(tmp_sname);i<=23;i++)
-						{
-							tmp_sblank+='&nbsp;';
-						}
-						tmp_ss=_autoapp_site_serial_py_json[key]['s'].toUpperCase();
-						tmp_sk=keyword.toUpperCase();
-						tmp_pos=tmp_ss.indexOf(tmp_sk);
-						if(tmp_pos>=0)
-						{
-							tmp_ss0=tmp_ss.substr(0,tmp_pos);
-							tmp_ss1=tmp_sk;
-							tmp_ss2=tmp_ss.substr(tmp_pos+tmp_ss1.length);
-						}
-						else
-						{
-							tmp_ss0=tmp_ss;
-							tmp_ss1='';
-							tmp_ss2='';
-						}
-						//tmp_html_str+=tmp_sblank+'<font style="color:red">'+_autoapp_site_serial_py_json[key]['s'].toUpperCase()+'</font>';
-						tmp_html_str+=tmp_sblank+'<font style="color:#333333;">'+tmp_ss0+'</font><font style="color:#d90606">'+tmp_ss1+'</font><font style="color:#333333">'+tmp_ss2+'</font>';
-						tmp_html_str+='</a>';
-						tmp_html_str+='</li>';
-						AutoSiteSearch_index.all_inputlist_num++;
-					}
-				}
-				if(AutoSiteSearch_index.all_inputlist_num==0)
-				{
-					tmp_html_str+='无相关推荐';
-				}
-			}
-			tmp_html_str+='</ul>';
-			AutoSiteSearch_index.$('search_inputlist').innerHTML=tmp_html_str;
-			AutoSiteSearch_index.$('search_inputlist').style.display="block";
-		}else{
-			AutoSiteSearch_index.close_smartbox();
-		}
-	},
-	mouseover_item:function(id)
-	{
-		for(i=1;i<(AutoSiteSearch_index.all_inputlist_num+1);i++)
-		{
-			AutoSiteSearch_index.$('input_item_'+i).className='';
-		}
-		AutoSiteSearch_index.$('input_item_'+id).className='focus2';
-		AutoSiteSearch_index.cur_inputlist_num=id;
-		return false;
-	},
-	click_inputlist_item:function(item,id){
-		AutoSiteSearch_index.cur_inputlist_num=item;
-		for(i=1;i<(AutoSiteSearch_index.all_inputlist_num+1);i++)
-		{
-			AutoSiteSearch_index.$('input_item_'+i).className='';
-		}
-		AutoSiteSearch_index.close_smartbox();
-		AutoSiteSearch_index.search_keyword_v2(id);
-		return false;
-	},
-	/*click_submit:function()
-	{
-		AutoSiteSearch_index.close_smartbox();
-		return true;
-	},*/
-	search_keyword_v2:function(id)
-	{
-		var cur_id=parseInt(id,10);
-		if(isNaN(cur_id) || cur_id==0)
-		{
-			return false;
-		}
-  
-		var search_tmp_str=AutoSiteSearch_index.auto_url+"car_serial/"+cur_id+"/index.shtml";
-		window.open(search_tmp_str);
-		return false;
-	},
-	blur_keyword:function(item)
-	{
-		if(item.value=='')
-		{
-			item.value=AutoSiteSearch_index.ad_keyword_str;
-		}
-		if(item.value==AutoSiteSearch_index.ad_keyword_str||item.value=='')
-		{
-			item.style.color='gray';
-		}
-		return true;
-	},
-	init_py_list:function(){
-		var py_list_url="//js.data.auto.qq.com/car_public/template/serial_py.js";
-		AutoSiteSearch_index.JsLoader.load(py_list_url,function(){
-			if(typeof(_autoapp_site_serial_py_json)!="undefined")
-			{
-				//如果正常调入，那么执行转换拼音函数初始化功能。
-				set_pinyin_init();
-			}
-		});
-	},
-	cancel_event:function(evt)
-	{
-		evt=evt||window.event;
-		if(evt.preventDefault){
-			evt.stopPropagation();
-			evt.preventDefault();
-		}else{
-			evt.returnValue=false;
-			evt.cancelBubble=true;
-		}
-	},
-	click_keyword:function(obj,evt)
-	{
- 
-		AutoSiteSearch_index.cancel_event(evt);
-		if(obj.value==AutoSiteSearch_index.ad_keyword_str)
-		{
-			obj.value='';
-			obj.style.color="black";
-		}
-		AutoSiteSearch_index.open_smartbox();
-		return false;
-	},
-	gb_substr:function(str,len)
-	{
-		if (len == null || len <= 0)
-		{
-			return "";
-		}
-		var str_len = str.length;
-		if(len >= str_len * 2)
-		{
-			return str;
-		}
-		var get_len = 0;
-		for (;get_len < str_len && len > 0; get_len++)
-		{
-			if (str.charCodeAt(get_len) > 255 || str.charCodeAt(get_len) < 0)
-			{
-				len -= 2;
-			}else{
-				len--;
-			}
-		}
-		if (len < 0)
-		{
-			get_len -= 1;
-		}
-		if (get_len == str_len)
-		{
-			return str;
-		}else{
-			return str.substr(0,get_len);
-		}
-	},
-	gb_length:function(str)
-	{
-		return str.replace(/[^\x00-\xff]/gi,'xx').length;
-	}
-};
-//AutoSiteSearch_index.add_loadEvent(function(){});
-AutoSiteSearch_index.init_py_list();
-</script>
- 
-<!--搜索区域HTML begin-->
-	
-	<!-- 关键字搜索 begin-->	
-	<form onsubmit="return AutoSiteSearch_index.searchByKeyword();">
-	<div class="scrinput" style="display:none;">
-		<span class="z1" style="position:relative; display:block;z-index:1000">
-			<input id="id_keyword" name="keyword" type="text" value="车型名称/拼音" onclick="return AutoSiteSearch_index.click_keyword(this,event);" onkeyup="return AutoSiteSearch_index.keyup_keyword(event);" autocomplete="off" />
-			<!--SmartBox隐藏层begin-->
-			<div id="xlcd5cont" class="xcdcont auto_height" isselect="true" align="left">
-					<div class="menulist" id="id_keylist">
-						<ul id="id_dropdown">
-						</ul>
-					</div>
-			</div>
-			<div class="inputlist" style="position:absolute;display:none;_left:0px;*left:0px;" id="search_inputlist">
-			</div>
-			<!--SmartBox隐藏层end-->
-		</span>		
-		<input class="z3-input" name="Submit" value="搜索" type="button" onClick="AutoSiteSearch_index.clickSearchButton();"/>
-	</div>
-	</form>
-	<!-- 关键字搜索 end-->
-	
-	<!-- 品牌车系搜索 begin-->
-	<form onsubmit="return AutoSiteSearch_index.searchBySerial();">
-	<div class="dbsele" style="position: absolute; top:15px;left:44px;height: 23px; width: 252px; ">
-	<!--div class="ss dbsele"-->	
-		<span class="z1 default_cursor" style="position: relative; display: block; z-index: 1000;" id="xlcd1" onclick="AutoSiteSearch_index.onClickSelect(event,'xlcd1cont')" iscap="true" selel="xlcd1cont">
-			<span id="id_manu_selected" class="default_cursor" iscap="true" selel="xlcd1cont" onselectstart="return false;" onselectend="return false;">选择品牌 ::::::</span>
-			<!--品牌隐藏层begin-->
-			<div id="xlcd1cont" class="xcdcont" isselect="true" style="height: 330px; display: none;">
-					<div class="menulist" id="id_manulist" style="width: 106px;">
-						<ul>
-							<li><a href="javascript:void(0);" manuid="0" isselect="true" target="_self">选择品牌 ::::::</a></li>
-						</ul>
-					</div>
-			</div>
-			<!--品牌隐藏层end-->
-		</span>
- 
-		<span _disabled="true" class="z2 default_cursor" style="color: gray; position: relative; display: block; z-index: 1000;" id="xlcd2" onclick="AutoSiteSearch_index.onClickSelect(event,'xlcd2cont',this)" iscap="true" selel="xlcd2cont">
-			<span id="id_serial_selected" class="default_cursor" iscap="true" selel="xlcd2cont" onselectstart="return false;" onselectend="return false;">选择车系 :::::::</span>
-			<!--车系隐藏层begin-->
-			<div id="xlcd2cont" class="xcdcont auto_height" style="margin-left:-1px;height: auto; width: 124px; display: none;" isselect="true">
-					<div class="menulist auto_height" style="width: 122px;" id="id_seriallist" onclick="AutoSiteSearch_index.selectSerial(event);">
-						<ul><li><a href="javascript:void(0);" serialid="0" isselect="true" target="_self">选择车系 :::::::</a></li>
-						</ul>
-					</div>
-			</div>
-	  	<!--车系隐藏层end-->
-		</span>
- 
-		<!--<input name="Submit" value="搜索" class="z3-input undis" type="submit">-->
-	</div>
-	</form>
-	<!-- 品牌车系搜索 end-->
-<!--搜索区域HTML end-->
- 
-<script type="text/javascript"> 
-(function(){
-	AutoSiteSearch_index.loadManuList();
-	var strEvent="mousedown";
-	if(AutoSiteSearch_index.Browser.opera)
-	strEvent="click";
-	AutoSiteSearch_index.bind(AutoSiteSearch_index.$("id_manulist"),strEvent,function(evt){
-		evt=evt||window.event;
-		AutoSiteSearch_index.selectManu(evt);
-	});
-	AutoSiteSearch_index.bind(document,"click",function(evt){
-		evt=evt||window.event;
-		var el=evt.srcElement||evt.target;
-		var tn=el.tagName.toUpperCase();
-		if(((tn==="A"||tn==="DIV")&&el.getAttribute("isselect"))){
- 
-		}else if(el.getAttribute("iscap")){
-			AutoSiteSearch_index.collapseOtherSelects(el.getAttribute("selel"));
-		}else{
-			AutoSiteSearch_index.collapseAllSelects();
-		}
-		AutoSiteSearch_index.blur_keyword(AutoSiteSearch_index.$('id_keyword'));
-		AutoSiteSearch_index.close_single_smartbox();
-	});
-})();
-</script>
- 
-<!--      品牌车系、关键字搜索       END-->  
-					</div>
-					<div class="search-item clearfix">
-						<span class="fleft">车型:</span>
-						<ul class="type-area" id="type-area">
-							<!--<li key="bodywork" value="128"><a href="javascript:void(0)"><i class="auto-icon1"></i></a></li>-->
-							<li key="bodywork" value="1"><a href="javascript:void(0)"><i class="auto-icon2"></i></a></li>
-							<li key="bodywork" value="2"><a href="javascript:void(0)"><i class="auto-icon3"></i></a></li>
-							<li key="bodywork" value="4"><a href="javascript:void(0)"><i class="auto-icon7"></i></a></li>
-							<li key="bodywork" value="64"><a href="javascript:void(0)"><i class="auto-icon4"></i></a></li>
-							<li key="bodywork" value="32"><a href="javascript:void(0)"><i class="auto-icon5"></i></a></li>
-							<li key="bodywork" value="16"><a href="javascript:void(0)"><i class="auto-icon6"></i></a></li>							
-						</ul>
-					</div>
-					<div class="search-item clearfix" unselectable="on" onselectstart="return false;">
-						<span class="fleft">价格:<br/><span class="font12" style="margin-left:-2px;">(万元)</span></span>
-						<div class="price-range" id="price-range" onselectstart="return false">
-							<span class="price-tips" id="price-tips">8-20W</span>
-							<span class="select-range" id="select-range"></span>
-							<i class="price-begin" id="price-begin"></i>
-							<i class="price-end" id="price-end"></i>
-						</div>
-					</div>
-					<div class="search-item clearfix">
-						<span class="fleft">国别:</span>
-						<ul class="nation-area" id="nation-area">
-							<li onmouseover="this.className +=' hover';" onmouseout="this.className=this.className.replace(' hover','');" key="country" value='1'>中国</li>
-							<li onmouseover="this.className +=' hover';" onmouseout="this.className=this.className.replace(' hover','');" key="country" value='2'>美国</li>
-							<li onmouseover="this.className +=' hover';" onmouseout="this.className=this.className.replace(' hover','');" key="country" value='8'>日本</li>
-							<li onmouseover="this.className +=' hover';" onmouseout="this.className=this.className.replace(' hover','');" key="country" value='4'>德国</li>
-							<li onmouseover="this.className +=' hover';" onmouseout="this.className=this.className.replace(' hover','');" key="country" value='32'>法国</li>
-							<li onmouseover="this.className +=' hover';" onmouseout="this.className=this.className.replace(' hover','');" key="country" value='16'>韩国</li>
-							<li onmouseover="this.className +=' hover';" onmouseout="this.className=this.className.replace(' hover','');" key="country" value='64'>英国</li>
-							<li onmouseover="this.className +=' hover';" onmouseout="this.className=this.className.replace(' hover','');" key="country" value='128'>意大利</li>
-						</ul>
-					</div>
-					<div>
-						<input class="search-btn" type="button" onmouseover="this.className='search-btn hover';" onmouseout="this.className='search-btn';" onclick="go_search_page('wom');"></button>
-					</div>
-					</form>
-				
-				
-				<script>
-				
-				(function(){
-					//国别&车型绑定事件
-					Q("nation-area").onclick = Q("type-area").onclick = function(event){
-						event = event||window.event;
-						var target = event.target||event.srcElement;
-						while(target.tagName!="LI"&&target.tagName!="UL"){
-							target = target.parentNode;
-						}
-						if(target.tagName=="LI"){
-							if(target.className.indexOf("selected")==-1){
-								target.className += " selected";
-							}
-							else{
-								target.className = target.className.replace("selected","");
-							}
-							purchasesBossClick('index','index_search');//检索区域整体点击次数统计
-						}
-					}	
-					window["filter"] = {
-						"price_low":8,
-						"price_heigh":20
-					};
-					window["go_search_page"] = function(){						
-						filter.bodywork = 0;
-						filter.country = 0;
-						/*获取选中条件*/
-						var filterEl = Q.q("selected",Q("car-search"),"li");
-						for (var i=0,len=filterEl.length; i<len; i++){
-							var key = Q.attr(filterEl[i],"key");
-							var value = Q.attr(filterEl[i],"value");
-							filter[key] += parseInt(value);
-						}
-						var param = "page_no=1";
-						for (var i in filter){
-							param += "&"+i+"="+filter[i];
-						}
-						purchasesBossClick('index','index_search');//检索区域整体点击次数统计
-						if(filter.bodywork!=0){
-							purchasesBossClick('index','index_search_model');//通过车型查询的次数
-						}
-						if(filter.country!=0){
-							purchasesBossClick('index','index_search_country');//通过国别查询的次数
-						}
-						purchasesBossClick('index','index_search_price');//通过价格查询的次数
-
-						window.open("//data.auto.qq.com/car_purchases/car_search.shtml?"+param, "_blank");
-					}
-
-					function getPos(elem) {//获取元素相对于整个文档的X位置的函数；
-						var x = 0;
-						var y = 0;
-						while ( elem.offsetParent) {
-							x += elem.offsetLeft;
-							y += elem.offsetTop;
-							elem = elem.offsetParent;
-						}
-						return {"left":x,"top":y};
-					}
-					var pos = getPos(Q("price-range"));					
-					var beginEl = Q("price-begin"),endEl = Q("price-end"),priceEl = Q("price-tips"),selectRangeEl = Q("select-range");
-					var rangeWidth = Q("price-range").offsetWidth,
-						priceTipsWidth = priceEl.offsetWidth;
-					var cursorWidth = Math.ceil(beginEl.offsetWidth/2);
-					beginEl.onmousedown = endEl.onmousedown = function (event) {//鼠标按下
-						var _this = this;
-						purchasesBossClick('index','index_search');//检索区域整体点击次数统计
-						//this.style.cursor = "pointer";
-
-						event = event||window.event;//移动时创建一个事件
-
-						var left = event.clientX - document.body.scrollLeft - getPos(_this).left + pos.left; //x=鼠标相对于网页的x坐标-网页被卷去的宽-待移动对象的左外边距				
-						document.onmousemove = function (event) {
-							event = event||window.event;
-							var x = event.clientX + document.body.scrollLeft - left ;
-							x = x < 0 ? 0 : (x > rangeWidth ? rangeWidth : x); 
-						
-							_this.style.left = x-cursorWidth+"px";
-							var bLeft = beginEl.offsetLeft+cursorWidth, 
-								eLeft = endEl.offsetLeft+cursorWidth;
-							var bPrice = Math.ceil(bLeft*100/rangeWidth);
-							var ePrice = Math.ceil(eLeft*100/rangeWidth);
-							if(bPrice==ePrice){
-								priceEl.innerHTML = ePrice+"W" + (ePrice>=100?"+":"");
-							}
-							else{
-								var minPrice = Math.min(bPrice,ePrice),
-									maxPrice = Math.max(bPrice,ePrice);								
-								priceEl.innerHTML = minPrice +"-"+maxPrice + "W" + (maxPrice>=100?"+":"");
-							}
-							var pLeft = (bLeft+eLeft-priceTipsWidth)/2; /*计算价格提示信息的位置*/
-							pLeft = pLeft > (rangeWidth - priceTipsWidth) ? (rangeWidth - priceTipsWidth) : pLeft; /*禁止移出右边界的情况*/
-							priceEl.style.left = pLeft+"px";	
-							
-							/*设置选中区域*/
-							selectRangeEl.style.width = Math.abs(bLeft-eLeft)+"px";	
-							selectRangeEl.style.left = Math.min(bLeft,eLeft)+4+"px";
-				
-							filter.price_low = parseInt(minPrice);				
-							filter.price_heigh = parseInt(maxPrice);	
-						}
-						document.onmouseup = function () {/*鼠标放开*/
-							document.onmousemove = null;
-							document.onmouseup = null;
-						}
-					}
-				})()
-				
-				</script>
-			</div>
-		</div>	
-	
-		<!--人气栏目-->
-				<!--人气栏目-->
-		<div class="hot-column">
-			<div class="hd">		
-				<h2><a href="#" target="_blank">人气栏目</a></h2>
-			</div>
-			<div class="bd">
-				<ul id="popularity_items">
-					<li onclick="purchasesBossClick('index','index_purchases_button')" id="popularity_gcsc"  class="mr5"><a href="http://data.auto.qq.com/car_purchases/gcsc/car_column_1.shtml" target="_blank">购车手册</a></li>
-					<li onclick="purchasesBossClick('index','index_task_button')" id="popularity_txrw"  class="mr5"><a href="http://data.auto.qq.com/car_purchases/txrw/car_column_1.shtml" target="_blank">腾讯任务</a></li>
-					<li onclick="purchasesBossClick('index','index_guide')" id="popularity_cxdg"><a href="http://data.auto.qq.com/car_purchases/cxdg/car_column_1.shtml" target="_blank">车型导购</a></li>
-					<li onclick="purchasesBossClick('index','index_pk_button')" id="popularity_pk" class="mr5"><a href="http://data.auto.qq.com/car_purchases/pk/car_column_1.shtml" target="_blank">捉对PK</a></li>
-					<li onclick="purchasesBossClick('index','index_picture_button')" id="popularity_picture" class="mr5"><a href="http://data.auto.qq.com/car_purchases/picture/car_column_1.shtml" target="_blank">到店实拍</a></li>
-					<li onclick="purchasesBossClick('index','index_video_button')" id="popularity_spdg"><a href="http://data.auto.qq.com/car_video/index.shtml" target="_blank">视频导购</a></li>
-					<li id="popularity_hmc" class="mr5"><a href="http://data.auto.qq.com/car_purchases/hmc/car_column_1.shtml" target="_blank">会买车</a></li>
-					<li id="popularity_xqmc" class="mr5"><a href="http://data.auto.qq.com/car_purchases/xqmc/car_column_1.shtml" target="_blank">小强买车</a></li>
-					<li onclick="purchasesBossClick('index','index_hq_button')" id="popularity_hqzx"><a href="http://data.auto.qq.com/car_public/1/hq.shtml" target="_blank">行情中心</a></li>
-				</ul>
-			</div>
-		</div>
-<script type="text/javascript" src="//js.data.auto.qq.com/car_public/hq/quanguo_areanews.js"></script>
-<script>
-
-if(typeof Q != 'function'){
-	Q={};
-	Q.getCookie = function(name) {
-		var arr = document.cookie.match(new RegExp("(^| )" + name
-				+ "=([^;]*)(;|$)"));
-		if (arr != null) {
-			return unescape(arr[2]);
-		}
-		return null;
-	};
-	Q.setCookie = function(name, value, options) {
-		options = options || {};
-		var expires = options.expires || null;
-		var path = options.path || "/";
-		var domain = options.domain || document.domain;
-		var secure = options.secure || null;
-		document.cookie = name + "=" + escape(value) 
-		+ ((expires) ? "; expires=" + expires.toGMTString() : "") 
-		+ "; path=" + path
-		+ "; domain=" + domain 
-		+ ((secure) ? "; secure" : "");
-	};	
-}
-
-(function(){
-	
-	//cookie的名称
-	var COOKIENAME='popularity';
-	//cookie的对象型式
-	var cookieOjbect={};
-	//根据新数据和cookie生成用于创建html的数据
-	var htmlObject={};
-    //过期时间
-	var exdate=new Date()
-	exdate.setDate(exdate.getDate()+30);
-	//各栏目新文章数量数据
-	//由后台通过计算各栏目最近一天文章数量返回
-	//time=最新一天文章的日期
-	//num=该天的文章数
-	var newMsgData={"gcsc":{"time":null,"num":0},"txrw":{"time":"2015-07-21","num":4},"cxdg":{"time":null,"num":0},"pk":{"time":null,"num":0},"picture":{"time":null,"num":0},"hmc":{"time":null,"num":0},"xqmc":{"time":null,"num":0}}
-	
-	/*
-	{
-		"gcsc":{"time":"2012-08-30","num":1},//购车手册
-		"txrw":{"time":"2012-12-05","num":1},//腾讯任务
-		"cxdg":{"time":"2012-12-04","num":2},//车型导购
-		"pk":{"time":"2012-11-20","num":1},//捉对PK
-		"picture":{"time":"2012-12-08","num":1},//到店实拍
-		"hmc":{"time":null,"num":0},//会买车
-		"xqmc":{"time":null,"num":0}//小强买车
-	}
-	*/
-	newMsgData.hqzx={
-		time:null,
-		num:0
-	};
-	//从JS中获取行情的数据
-	for(var i=0;i<100;i++){
-		if(newMsgData.hqzx.time==null){
-			newMsgData.hqzx.time=hangqing_result[i].FPubTime;
-		}else{
-			if(newMsgData.hqzx.time!=hangqing_result[i].FPubTime){
-				break;
-			}
-		}
-		newMsgData.hqzx.num++;
-	}
-	
-	//获取cookie并输出成json格式
-	//如：
-	//{
-	//	'gcsc':{time:2012-08-30,clicked:0}
-	//}
-	//key=该栏目
-	//key.time cookie所保存的最近一次访问时该栏目的最新文章日期
-	//key.clicked cookie所保存的这一天是否被点击过，未被点击值为0 被点击过值为1
-	//如果没有cookie则默认使用newMsgData自动创建cookie并返回
-	//得到cookie中保存的各栏目上次访问时最新栏目日期和是否被点击，是为了该栏目是否显示新文章数
-	var getCookieToObject=function(){
-		var cookie=Q.getCookie(COOKIENAME);
-		var cookieString='';
-		var cookieArray=[];
-		var cookieOjbect={};
-		
-		if(cookie==null){
-			for(var k in newMsgData){
-				cookieArray.push(k+'&'+newMsgData[k].time+'&'+0);
-			}
-			cookieString=cookieArray.join(',');
-			Q.setCookie('popularity',cookieString,{expires:exdate});
-		}else{
-			cookieString=cookie;
-			cookieArray=cookieString.split(',');
-		}
-		for(var i=0; i<cookieArray.length; i++){
-			var thisitem=cookieArray[i].split('&');
-			cookieOjbect[thisitem[0]]={
-				time:thisitem[1],
-				clicked:thisitem[2]
-			}
-		}
-		return cookieOjbect;
-	}
-	
-	cookieOjbect=getCookieToObject();
-	
-	//根据最新数据生成用于创建内容的数据
-	//当cookie中没有该栏目记录时
-	//当cookie中该栏目的时间和新数据时间不一样时
-	//当cookie中该栏目的时间与新数据时间一样，并且未被标记为被点击过时
-	//视为该栏目需要显示新文章数，当然必需该栏目中有数据
-	for(var k in newMsgData){
-		if(!cookieOjbect[k] || cookieOjbect[k].time!=newMsgData[k].time || (cookieOjbect[k].time==newMsgData[k].time && cookieOjbect[k].clicked==0)){
-			if(newMsgData[k].time!=null && newMsgData[k].num!=0){
-				htmlObject[k]=newMsgData[k];
-			}
-		}
-	}
-	
-	//栏目点击事件函数
-	var popularityHandle=function(){
-		var parent=this.parentNode;
-		//删除数量
-		var num=parent.getElementsByTagName('span')[0];
-		parent.removeChild(num);
-		//更新cookie
-		var k=parent.id.split('_')[1];
-		cookieOjbect[k]={};
-		cookieOjbect[k].time=htmlObject[k].time;
-		cookieOjbect[k].clicked=1;
-		var cookieArray=[];
-		for(var k in cookieOjbect){
-			cookieArray.push(k+'&'+cookieOjbect[k].time+'&'+cookieOjbect[k].clicked);
-		}
-		var cookieString=cookieArray.join(',');
-		Q.setCookie('popularity',cookieString,{expires:exdate});
-		this.onclick=function(){};
-	}
-	
-	//填加数字
-	for(var k in htmlObject){
-		var item=document.getElementById('popularity_'+k);
-		var num=document.createElement('span');
-		num.className='new-msg';
-		if(htmlObject[k].num>99){
-			num.innerHTML='99+';
-		}else{
-			num.innerHTML=htmlObject[k].num;
-		}
-		item.appendChild(num);
-		item.getElementsByTagName('a')[0].onclick=popularityHandle;
-	}
-})();
-
-</script><!--[if !IE]>|xGv00|96cfd6d64b623e7ac698a7aa2ed62ac5<![endif]-->	
-	
-		<!--大家在看-->
-		<div class="hot-art">
-			<div class="hd">		
-				<h2>大家在看</h2>
-			</div>
-			<div class="bd">
-				<ul id="hot-art-list">	
-				<script id="hot-art-tpl" type="text/html">
-					<% for(var i=0; i<list.length && i<9; i++){ %>
-					<li><div class="head-area"><img src="<%= list[i].headerpic %>"/></div><a href="<%= list[i].url %>" target="_blank" onclick = "purchasesBossClick('index','index_everyone');"><div class="art-info"><span class="ttl"><%= list[i].title  %></span><p><span class="info">腾讯<%= list[i].city %>网友 刚刚读过：</span></p></div></a></li>		
-					<% } %>
-				</script>
-				</ul>
-			</div>
-		</div>
-		<script src="//mat1.gtimg.com/auto/datalib/carpurchases/js/template.js" charset="utf-8"></script>
-		<script>
-			
-			(function(){
-				Q.loadJs({
-					"src":"//cgi.data.auto.qq.com/php/getcurrentpurchases.php",				
-					"callback":function(){
-						Q("hot-art-list").innerHTML = template.render("hot-art-tpl", {
-							list: currentpurchases
-						});
-					}
-				});		
-			})()
-			
-		</script>
-
-	
-		<!--购车工具-->
-		<div class="tools-area" id="tools-area">
-			<div class="hd">		
-				<h2>购车工具</h2>
-			</div>
-			<div class="bd">
-				<ul>
-					<li class="mr5" index=1><a href="//data.auto.qq.com/car_public/1/calc.shtml#stype=quankuan&brandid=0&seriesid=0&modelid=0&firstpay=3&year=3" target="_blank" onclick = "purchasesBossClick('index','index_tool');"><i class="calculator"></i></a></li>
-					<li class="mr5" index=2><a href="//auto.qq.com/buyguide/shouce.htm" target="_blank" onclick = "purchasesBossClick('index','index_tool');"><i class="manual"></i></a></li>
-					<li index=3><a href="//data.auto.qq.com/car_public/1/compare.shtml#cmpstr=0,0,0,0,0" target="_blank" onclick = "purchasesBossClick('index','index_tool');"><i class="comparison"></i></a></li>
-					<li class="mr5" index=4><a href="//data.auto.qq.com/car_public/1/fuelcostrank.shtml#list=4,3,3" target="_blank" onclick = "purchasesBossClick('index','index_tool');"><i class="oil-ranklist"></i></a></li>
-					<li class="mr5" index=5><a href="//dealer.bitauto.com/" target="_blank" onclick = "purchasesBossClick('index','index_tool');"><i class="shop-4s"></i></a></li>
-					<li index=6><a href="//data.auto.qq.com/car_public/1/wom.shtml" target="_blank" onclick = "purchasesBossClick('index','index_tool');"><i class="ranking"></i></a></li>
-					<li index=7><a href="//wenwen.soso.com/z/s87228416.htm" target="_blank" onclick = "purchasesBossClick('index','index_tool');"><i class="Q-A"></i></a></li>
-				</ul>
-			</div>
-		</div>
-		<script>
-		
-			var toolEl = document.getElementById("tools-area").getElementsByTagName("li");		
-			for(var i=0;i<7;i++ ){
-				toolEl[i].onmouseover = function(){	
-					this.className = this.className+" hover";
-				}				
-				toolEl[i].onmouseout = function(){						
-					this.className = (this.getAttribute("index")%3==0)?"":"mr5";
-				}
-			}
-		
-		</script>
-</div>
-<div class="bottom-wrap">
-	
-		<!--视频导购-->
-		<div class="video-guide">
-			<div class="hd">
-				<ul id="video-guide-nav">
-					<li class="current" onclick="changePriceRange(1)"><h2><a href="javascript:void(0);">视频导购</a></h2></li>
-					<li onclick="changePriceRange(2)"><a href="javascript:void(0);">10万以下</a></li>
-					<li onclick="changePriceRange(3)"><a href="javascript:void(0);">10-20万</a></li>
-					<li onclick="changePriceRange(4)"><a href="javascript:void(0);">20-30万</a></li>
-					<li onclick="changePriceRange(5)"><a href="javascript:void(0);">30-40万</a></li>
-					<li onclick="changePriceRange(6)"><a href="javascript:void(0);">50万以上</a></li>
-				</ul>
-			</div>
-			<div class="bd">
-                <ul id="video-guide-bd">	<li>                        <div class="con mr22">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/114/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/17-10-27/d/300c1222dbaae637ab951026070a502b7.jpg" alt="宝马5系" name="page_cnt_1">                    <div class="bg"></div>                    <p>06:07</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/114/serialvideos.shtml#1" title="宝马5系" onclick="purchasesBossClick('index','index_video_area');">宝马5系</a></span><span class="car-price">43.69万起</span></div>        </div>                <div class="con mr22">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/257/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/13-01-30/5/41382456b3a335b7694c9311914750b17.jpg" alt="大众EOS" name="page_cnt_1">                    <div class="bg"></div>                    <p>04:57</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/257/serialvideos.shtml#1" title="大众EOS" onclick="purchasesBossClick('index','index_video_area');">大众EOS</a></span><span class="car-price">45.92万起</span></div>        </div>                <div class="con mr22">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/36/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/12-12-31/a/f2d8de9e7b7f89d56411881ccc50deb07.jpg" alt="现代伊兰特" name="page_cnt_1">                    <div class="bg"></div>                    <p>05:30</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/36/serialvideos.shtml#1" title="现代伊兰特" onclick="purchasesBossClick('index','index_video_area');">现代伊兰特</a></span><span class="car-price">8.98万起</span></div>        </div>                <div class="con mr22">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/60/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/14-01-20/7/d913f9494b489c453cda9ed1bfbbfde97.jpg" alt="腾翼V80" name="page_cnt_1">                    <div class="bg"></div>                    <p>05:02</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/60/serialvideos.shtml#1" title="腾翼V80" onclick="purchasesBossClick('index','index_video_area');">腾翼V80</a></span><span class="car-price">7.99万起</span></div>        </div>                <div class="con">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/789/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/12-11-30/2/2376d55009c4b9f5125d33ec9efa702f7.jpg" alt="莲花L5" name="page_cnt_1">                    <div class="bg"></div>                    <p>04:31</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/789/serialvideos.shtml#1" title="莲花L5" onclick="purchasesBossClick('index','index_video_area');">莲花L5</a></span><span class="car-price">8.58万起</span></div>        </div>                	</li>	<li style="display:none;">                        <div class="con mr22">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/81/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/15-03-18/c/431acc209ffda10e5fdc2ad173a2b1457.jpg" alt="日产阳光" name="page_cnt_1">                    <div class="bg"></div>                    <p>04:40</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/81/serialvideos.shtml#1" title="宝马5系" onclick="purchasesBossClick('index','index_video_area');">日产阳光</a></span><span class="car-price">7.98万起</span></div>        </div>                <div class="con mr22">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/935/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/15-07-29/7/7a6102f14e53699b48cf253b01ab33d47.jpg" alt="新福克斯" name="page_cnt_1">                    <div class="bg"></div>                    <p>05:09</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/935/serialvideos.shtml#1" title="大众EOS" onclick="purchasesBossClick('index','index_video_area');">新福克斯</a></span><span class="car-price">9.98万起</span></div>        </div>                <div class="con mr22">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/938/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/15-07-03/2/4dd2506babfde3ba435dd69364430e617.jpg" alt="启辰D50" name="page_cnt_1">                    <div class="bg"></div>                    <p>04:18</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/938/serialvideos.shtml#1" title="现代伊兰特" onclick="purchasesBossClick('index','index_video_area');">启辰D50</a></span><span class="car-price">6.98万起</span></div>        </div>                <div class="con mr22">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/986/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/15-07-03/d/16f6857e4ca863e179318ddd2689fed27.jpg" alt="启辰R50" name="page_cnt_1">                    <div class="bg"></div>                    <p>04:20</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/986/serialvideos.shtml#1" title="腾翼V80" onclick="purchasesBossClick('index','index_video_area');">启辰R50</a></span><span class="car-price">6.98万起</span></div>        </div>                <div class="con">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/864/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/17-02-20/c/0302b1194d526277604d2240347e9b1d7.jpg" alt="现代悦动" name="page_cnt_1">                    <div class="bg"></div>                    <p>05:09</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/864/serialvideos.shtml#1" title="莲花L5" onclick="purchasesBossClick('index','index_video_area');">现代悦动</a></span><span class="car-price">7.99万起</span></div>        </div>                	</li>    <li style="display:none;">                        <div class="con mr22">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/261/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/15-03-13/2/9d49144c973a061697fa0f5dc42181707.jpg" alt="腾讯导购：大众甲壳虫" name="page_cnt_1">                    <div class="bg"></div>                    <p>05:08</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/261/serialvideos.shtml#1" title="宝马5系" onclick="purchasesBossClick('index','index_video_area');">腾讯导购：大众甲壳虫</a></span><span class="car-price">18.28万起</span></div>        </div>                <div class="con mr22">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/491/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/17-07-19/a/2b5d413d0868d80e12b0ff1170273de27.jpg" alt="日产奇骏" name="page_cnt_1">                    <div class="bg"></div>                    <p>04:31</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/491/serialvideos.shtml#1" title="大众EOS" onclick="purchasesBossClick('index','index_video_area');">日产奇骏</a></span><span class="car-price">17.98万起</span></div>        </div>                <div class="con mr22">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/408/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/17-04-28/0/a760b418e50f98d0e900ed2f11c95fd07.jpg" alt="日产逍客" name="page_cnt_1">                    <div class="bg"></div>                    <p>04:50</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/408/serialvideos.shtml#1" title="现代伊兰特" onclick="purchasesBossClick('index','index_video_area');">日产逍客</a></span><span class="car-price">13.98万起</span></div>        </div>                <div class="con mr22">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/349/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/13-10-31/6/7150dbb648011cfe7d4aa9d70f2c43bd7.jpg" alt="起亚新佳乐" name="page_cnt_1">                    <div class="bg"></div>                    <p>04:31</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/349/serialvideos.shtml#1" title="腾翼V80" onclick="purchasesBossClick('index','index_video_area');">起亚新佳乐</a></span><span class="car-price">15.98万起</span></div>        </div>                <div class="con">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/503/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/15-05-13/e/5914107c7a0cd954384b71054c292dd87.jpg" alt="马自达睿翼" name="page_cnt_1">                    <div class="bg"></div>                    <p>04:58</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/503/serialvideos.shtml#1" title="莲花L5" onclick="purchasesBossClick('index','index_video_area');">马自达睿翼</a></span><span class="car-price">16.48万起</span></div>        </div>                    </li>    <li style="display:none;">                        <div class="con mr22">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/347/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/15-07-09/5/848aa2ab65250937662ade288c116e277.jpg" alt="起亚索兰托" name="page_cnt_1">                    <div class="bg"></div>                    <p>04:41</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/347/serialvideos.shtml#1" title="宝马5系" onclick="purchasesBossClick('index','index_video_area');">起亚索兰托</a></span><span class="car-price">22.68万起</span></div>        </div>                <div class="con mr22">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/763/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/13-06-04/0/9163f85f993eaa1eb4ce32fa45cad5cb7.jpg" alt="起亚凯尊" name="page_cnt_1">                    <div class="bg"></div>                    <p>04:35</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/763/serialvideos.shtml#1" title="大众EOS" onclick="purchasesBossClick('index','index_video_area');">起亚凯尊</a></span><span class="car-price">24.30万起</span></div>        </div>                <div class="con mr22">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/307/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/18-08-03/4/b70390ec0da7cc03b26f4635d18c67cc7.jpg" alt="雷克萨斯ES300h" name="page_cnt_1">                    <div class="bg"></div>                    <p>04:43</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/307/serialvideos.shtml#1" title="现代伊兰特" onclick="purchasesBossClick('index','index_video_area');">雷克萨斯ES300h</a></span><span class="car-price">27.90万起</span></div>        </div>                <div class="con mr22">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/376/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/13-06-05/d/86c9e787ee8657d17ca56193d6ac069f7.jpg" alt="沃尔沃C30" name="page_cnt_1">                    <div class="bg"></div>                    <p>04:44</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/376/serialvideos.shtml#1" title="腾翼V80" onclick="purchasesBossClick('index','index_video_area');">沃尔沃C30</a></span><span class="car-price">22.50万起</span></div>        </div>                <div class="con">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/800/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/16-02-01/c/89b37d660181458fbeccc908ba6e4c807.jpg" alt="沃尔沃V60" name="page_cnt_1">                    <div class="bg"></div>                    <p>04:40</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/800/serialvideos.shtml#1" title="莲花L5" onclick="purchasesBossClick('index','index_video_area');">沃尔沃V60</a></span><span class="car-price">28.99万起</span></div>        </div>                	</li>	<li style="display:none;">                        <div class="con mr22">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/310/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/16-02-01/b/89fc4a482da1d924324a67c48c30de927.jpg" alt="雷克萨斯IS250" name="page_cnt_1">                    <div class="bg"></div>                    <p>05:08</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/310/serialvideos.shtml#1" title="宝马5系" onclick="purchasesBossClick('index','index_video_area');">雷克萨斯IS250</a></span><span class="car-price">30.40万起</span></div>        </div>                <div class="con mr22">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/379/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/15-05-07/d/49a525fe7c404ac38b83a31a29dfd1c47.jpg" alt="沃尔沃S60" name="page_cnt_1">                    <div class="bg"></div>                    <p>04:45</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/379/serialvideos.shtml#1" title="大众EOS" onclick="purchasesBossClick('index','index_video_area');">沃尔沃S60</a></span><span class="car-price">39.29万起</span></div>        </div>                <div class="con mr22">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/902/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/15-03-09/6/faf81256b11ab72813ed74b5666819e77.jpg" alt="讴歌RDX" name="page_cnt_1">                    <div class="bg"></div>                    <p>05:14</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/902/serialvideos.shtml#1" title="现代伊兰特" onclick="purchasesBossClick('index','index_video_area');">讴歌RDX</a></span><span class="car-price">39.98万起</span></div>        </div>                <div class="con mr22">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/791/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/14-08-01/0/f710e6d1ef9613e17b8908da9c3742167.jpg" alt="标致RCZ" name="page_cnt_1">                    <div class="bg"></div>                    <p>05:03</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/791/serialvideos.shtml#1" title="腾翼V80" onclick="purchasesBossClick('index','index_video_area');">标致RCZ</a></span><span class="car-price">32.88万起</span></div>        </div>                <div class="con">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/238/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/16-05-13/e/964f7d65bd3f3ddd5c856f245ce01e407.jpg" alt="奔驰C200" name="page_cnt_1">                    <div class="bg"></div>                    <p>04:29</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/238/serialvideos.shtml#1" title="莲花L5" onclick="purchasesBossClick('index','index_video_area');">奔驰C200</a></span><span class="car-price">35.88万起</span></div>        </div>                	</li>	<li style="display:none;">                        <div class="con mr22">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/873/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/11-07-06/9/978e9b18cd9ea6d464fe4c4640024f5a7.jpg" alt="奔驰S300L" name="page_cnt_1">                    <div class="bg"></div>                    <p>03:59</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/873/serialvideos.shtml#1" title="宝马5系" onclick="purchasesBossClick('index','index_video_area');">奔驰S300L</a></span><span class="car-price">130.80万起</span></div>        </div>                <div class="con mr22">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/382/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/15-07-16/a/63d038c8d1775a70bde15345911aef927.jpg" alt="沃尔沃XC90" name="page_cnt_1">                    <div class="bg"></div>                    <p>04:47</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/382/serialvideos.shtml#1" title="大众EOS" onclick="purchasesBossClick('index','index_video_area');">沃尔沃XC90</a></span><span class="car-price">63.68万起</span></div>        </div>                <div class="con mr22">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/309/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/14-08-04/1/99f743203f1346ef73cb5f40c6cb670c7.jpg" alt="雷克萨斯GX460" name="page_cnt_1">                    <div class="bg"></div>                    <p>05:27</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/309/serialvideos.shtml#1" title="现代伊兰特" onclick="purchasesBossClick('index','index_video_area');">雷克萨斯GX460</a></span><span class="car-price">84.80万起</span></div>        </div>                <div class="con mr22">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/260/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/15-03-25/7/25c57e64dfae9cd4a43942b607ca72b37.jpg" alt="大众辉腾" name="page_cnt_1">                    <div class="bg"></div>                    <p>05:47</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/260/serialvideos.shtml#1" title="腾翼V80" onclick="purchasesBossClick('index','index_video_area');">大众辉腾</a></span><span class="car-price">79.58万起</span></div>        </div>                <div class="con">            <div class="img">                <a target="_blank" href="http://data.auto.qq.com/car_video/312/serialvideos.shtml#1" onclick="purchasesBossClick('index','index_video_area');">                    <img src="http://img1.gtimg.com/datalib_img/18-05-18/e/574533abc51a82274cb263ca2ffaf4197.jpg" alt="雷克萨斯LX570" name="page_cnt_1">                    <div class="bg"></div>                    <p>05:19</p>                </a>            </div>            <div class="info"><span class="video-title"><a target="_blank" href="http://data.auto.qq.com/car_video/312/serialvideos.shtml#1" title="莲花L5" onclick="purchasesBossClick('index','index_video_area');">雷克萨斯LX570</a></span><span class="car-price">129.10万起</span></div>        </div>                	</li></ul><!--[if !IE]>|xGv00|9dda3011b633c2316def979e8c02124d<![endif]-->
-			</div>
-		</div>
-		<script>
-		
-			(function(){
-				var bdEl = document.getElementById("video-guide-bd").getElementsByTagName("li");
-				var hdEl = document.getElementById("video-guide-nav").getElementsByTagName("li");
-				var num = hdEl.length;
-				window.changePriceRange = function(index){
-					for (var i=1; i<=num; i++){
-						if(i!=index){
-							hdEl[i-1].className = "";
-							bdEl[i-1].style.display = "none";
-						}
-						else{
-							hdEl[i-1].className = "current";
-							bdEl[i-1].style.display = "block";
-						}
-					}					
-				}
-			})()
-		
-		</script>
-</div>
-<!--content end-->
-</div>
-
-<!-- Footer Begin -->
-
-<style>
-#CopyRight2006 {font-size:12px;color:black;background:white;clear:both;margin:0 auto;}
-#CopyRight2006 a.tocft:link,a.tocft:visited{font-size:12px;color:black;text-decoration: none;}
-#CopyRight2006 a.tocft:hover{font-size:12px;color:red;text-decoration: underline;}
-</style>
-
-<table width="720" border="0" align="center" cellpadding="0" cellspacing="0" id="CopyRight2006">
-<tr>
-    <td height="30" colspan="2"></td>
-  </tr>
-  <tr>
-    <td height="25" colspan="2" align="center"><a href="http://www.tencent.com/" class="tocft" target="_blank">关于腾讯 </a> | <a href="http://www.tencent.com/index_e.shtml" class="tocft" target="_blank">About Tencent </a> | <a href="http://www.qq.com/contract.shtml" class="tocft" target="_blank">服务条款 </a> | <a href="http://adver.qq.com/" class="tocft" target="_blank">广告服务 </a> | <a href="http://hr.tencent.com/" class="tocft" target="_blank">腾讯招聘 </a> | <a href="http://gongyi.qq.com/" class="tocft" target="_blank">腾讯公益 </a> | <a href="http://service.qq.com/" class="tocft" target="_blank">客服中心 </a> | <a href="http://www.qq.com/map/" class="tocft" target="_blank">网站导航 </a></td>
-  </tr>
-  <tr>
-    <td width="556" height="25" align="right">Copyright &copy; 1998 - <script language="javascript">document.write(new Date().getFullYear());</script> Tencent Inc. All Rights Reserved </td>
-    <td width="194" align="left"><a href="http://www.sznet110.gov.cn/netalarm/index.jsp" target="_blank"><img src="http://img1.qq.com/www/pics/816/816587.gif" hspace="5" border="0" width="36" height="43"/></a></td>
-  </tr>
-  <tr>
-    <td height="25" colspan="2" align="center">腾讯公司 版权所有</td>
-  </tr>
-</table>
-
-
-<div style="display:none;">
-
-<script language="javascript"src="//mat1.gtimg.com/pingjs/ext2020/dc2017/publicjs/m/ping.js?max_age=86400"></script>
-<script language="javascript">
-if(typeof(pgvMain) == 'function'){pgvMain()};
-var addPGV = function(host,url){
-	var src = '//ait.auto.qq.com/h5/static/ait_pgv_iframe.html?url='+decodeURI(url)+'&host='+decodeURI(host)+'&_='+ Math.random();
-	var oldIframe = document.getElementById("pgv_iframe");
-	!!oldIframe &&  oldIframe.parentNode.removeChild(oldIframe);	
-	var iframe = document.createElement('iframe');
-	iframe.setAttribute("id", "pgv_iframe");
-	iframe.setAttribute("style", "display:none");
-    iframe.src = src;
-	document.getElementsByTagName('body')[0].appendChild(iframe);	
-}
-if (/data.auto.qq.com\/car_serial\/(-?[1-9]\d*)\/fuelcost.shtml/i.test(location.href)) {
-	addPGV('data.auto.qq.com','/car_serial/fuelcost.shtml')
-}else if (/data.auto.qq.com\/car_serial\/(-?[1-9]\d*)\/news_sj.shtml/i.test(location.href)) {
-	addPGV('data.auto.qq.com','/car_serial/news_sj.shtml')
-}else if (/data.auto.qq.com\/car_evaluat\/(-?[1-9]\d*)\/index_/i.test(location.href)) {
-	addPGV('data.auto.qq.com','/car_evaluat/index.shtml')
-}else if (/data.auto.qq.com\/car_serial\/(-?[1-9]\d*)\/serialvideo.shtml/i.test(location.href)) {
-	addPGV('data.auto.qq.com','/car_serial/serialvideo.shtml')
-}else if (/data.auto.qq.com\/car_serial\/(-?[1-9]\d*)\/car_detail_tag/i.test(location.href)) {
-	addPGV('data.auto.qq.com','/car_serial/car_detail_tag.shtml')
-}else if (/data.auto.qq.com\/car_serial\/(-?[1-9]\d*)\/news.shtml/i.test(location.href)) {
-	addPGV('data.auto.qq.com','/car_serial/news.shtml')
-}else if (/data.auto.qq.com\/car_purchases\/(-?[1-9]\d*)\//i.test(location.href)) {
-	addPGV('data.auto.qq.com','/car_purchases/index.shtml')
-}else if (/data.auto.qq.com\/car_serial\/(-?[1-9]\d*)\/hq\/hangqing_serial.shtml/i.test(location.href)) {
-	addPGV('data.auto.qq.com','/car_serial/hq/hangqing_serial.shtml')
-}else if (/data.auto.qq.com\/car_serial\/(-?[1-9]\d*)\/serialpic_nl.shtml/i.test(location.href)) {
-	addPGV('data.auto.qq.com','/car_serial/serialpic_nl.shtml')
-}else if (/data.auto.qq.com\/car_models\/(-?[1-9]\d*)\//i.test(location.href)) {
-	addPGV('data.auto.qq.com','/car_models/index.shtml')
-}
-</script>
-
-</div><!--[if !IE]>|xGv00|b05892127ae5eab3f3abca75f0eaea49<![endif]-->
-<!-- Footer End -->
-
-<script type="text/javascript" src="//mat1.gtimg.com/auto/datalib/carpurchases/js/boss.js"></script>
-</body>
-</html><!--[if !IE]>|xGv00|a8677632a06d8011ae90e8a558012aab<![endif]-->

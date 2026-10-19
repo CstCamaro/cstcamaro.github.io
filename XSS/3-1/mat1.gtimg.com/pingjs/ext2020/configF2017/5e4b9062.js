@@ -1,2 +1,0 @@
-/*------------Modifier: < surizhou > 2020-2-23 12:54:03------------*/
-var apub_5e4b9062 = {"title":"\u75ab\u60c5\u6570\u636e\u6a21\u5757\u987a\u5e8f\u63a7\u5236","items":[{"ename":"confirm","cname":"\u7d2f\u8ba1\u786e\u8bca"},{"ename":"heal","cname":"\u7d2f\u8ba1\u6cbb\u6108"},{"ename":"dead","cname":"\u7d2f\u8ba1\u6b7b\u4ea1"},{"ename":"nowConfirm","cname":"\u73b0\u6709\u786e\u8bca"},{"ename":"suspect","cname":"\u73b0\u6709\u7591\u4f3c"},{"ename":"nowSevere","cname":"\u73b0\u6709\u91cd\u75c7"}],"time":"2020-02-18 15:21:06","schemaId":"5e4b8d67ceee3046baeeab66","btype":"ch"}

@@ -1,1 +1,0 @@
-var __minisite2__weather__ = "ÖØÇì 8¡æ 8¡æ¡«13¡æ Òõ";/*  |xGv00|4eab92c86d6c9eec3ce8246decb86103 */

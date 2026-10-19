@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: 
-Sitemap: http://fm.qq.com/sitemap.xml
