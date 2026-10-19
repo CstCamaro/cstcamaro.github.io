@@ -1,11 +1,15 @@
 const $ = (s, root = document) => root.querySelector(s);
 const $$ = s => [...document.querySelectorAll(s)];
+const t = JSON.parse($('#ui-messages').textContent);
+$$('[data-language]').forEach(link=>link.addEventListener('click',()=>{
+  try {localStorage.setItem('language',link.dataset.language);} catch {}
+}));
 const toast = message => {
   const el = $('.toast'); el.textContent = message; el.classList.add('visible');
   clearTimeout(toast.timer); toast.timer = setTimeout(()=>el.classList.remove('visible'),2500);
 };
 const themeToggle = $('.theme-toggle');
-function updateThemeLabel() {themeToggle.setAttribute('aria-label',document.documentElement.dataset.theme === 'light' ? '切换到深色主题' : '切换到浅色主题');}
+function updateThemeLabel() {themeToggle.setAttribute('aria-label',document.documentElement.dataset.theme === 'light' ? t.darkTheme : t.lightTheme);}
 updateThemeLabel();
 themeToggle.addEventListener('click',()=> {
   const theme = document.documentElement.dataset.theme === 'light' ? 'dark' : 'light';
@@ -20,7 +24,7 @@ function filterPosts() {
     post.hidden = !match; if (match) count++;
   });
   $('.empty-state').hidden = count !== 0;
-  $('.filter-status').textContent = query || category !== 'all' ? `找到 ${count} 篇手记` : '';
+  $('.filter-status').textContent = query || category !== 'all' ? t.results.replace('{count}', count) : '';
   $$('[data-filter]').forEach(button=> {
     const active = button.dataset.filter === category;
     button.classList.toggle('active',active); button.setAttribute('aria-pressed',String(active));
@@ -36,10 +40,10 @@ if (search) {
   });
 }
 $$('.copy-code').forEach(button=>button.addEventListener('click',async()=>{
-  try {await navigator.clipboard.writeText($('pre code',button.closest('.code-block')).textContent);toast('代码已复制');} catch {toast('复制失败，请手动选择代码复制');}
+  try {await navigator.clipboard.writeText($('pre code',button.closest('.code-block')).textContent);toast(t.codeCopied);} catch {toast(t.codeFailed);}
 }));
 $('.share-link')?.addEventListener('click',async()=>{
-  try {await navigator.clipboard.writeText(location.href.split('#')[0]);toast('文章链接已复制');} catch {toast('复制失败，请复制浏览器地址栏中的链接');}
+  try {await navigator.clipboard.writeText(location.href.split('#')[0]);toast(t.linkCopied);} catch {toast(t.linkFailed);}
 });
 if ('IntersectionObserver' in window) {
   const tocLinks = $$('.article-toc nav a');
