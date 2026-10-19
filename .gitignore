@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.space-cleanup.git/
+.space-empty.git/
+.DS_Store
+.qa-profile/
+.qa-output/
+.qa-browser.mjs
+.publish.git/
